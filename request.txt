@@ -1,0 +1,32 @@
+{
+	"accountId": "site/50et4t1p5",
+    "filters": [
+        {
+            "name": "urlPath",
+            "values": [
+                "cricket-sports/this-is-a-test-article-for-march--q6jyf0",
+                "technology/airtel-introduces-voice-call-over-wifi-service-for-users-revolutionises-the-telecom-industry-q5zmjh",
+                "food-adulteration/this-is-instance-article-and-telegram-check-q5oj5x",
+                "keralabudget2016/article-scheduler-checking-q46rvk",
+                "gallery/india-news/delhi-protest-against-citizenship-amendment-act-q2sro9",
+                "whats-new-technology/aysha-renna-facebook-account-blocked-by-facebook-on-community-standards-violation-q2nxfj",
+                "web-specials-magazine/ramachandra-guha-speech-excerpts-q2spc6",
+                "video/election/video-article-testing-q50xwa",
+                "video/election/iframe-video-q50ya1",
+                "video/election/video-article-testing-q50xwa",
+                "video/kerala-news/eight-year-old-girl-raped-at-walayar-q2qs5r",
+                "video/kerala-news/abvp-protest-at-thiruvananthapuram-q2peui"
+            ],
+            "fields": [
+                "urlPath",
+                "id"
+            ]
+        }
+    ],
+    "sort": [
+        {
+            "name": "urlPath",
+            "order": "manual"
+        }
+    ]
+}

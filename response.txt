@@ -1,0 +1,1066 @@
+{
+    "items": [
+        {
+            "socialMetaData": {
+                "shareNow": false
+            },
+            "initialCreatedDate": "2020-03-02T06:08:46.963Z",
+            "customFields": {
+                "read": [
+                    "video/iffk2018-videos/this-is-just-a-test-video-article--q6eprn",
+                    "video/iffk2018-videos/test-video-news-q45932",
+                    "iffk2018-news/creating-english-headline-article-for-testing-instantarticle-q3vi45",
+                    "news/sample-english-headline-article-2-for-sitemap-testing-q3okm2",
+                    "entertainment-news/mamukkoya-against-citizenship-amendment-bill-q2sw25"
+                ],
+                "segmentsName": "Test Segment Entertainment"
+            },
+            "mobileTitle": "This is a test article for march",
+            "body": "<p>This is a test article for marchThis is a test article for marchThis is a test article for marchThis is a test article for marchThis is a test article for marchThis is a test article for march</p>\n",
+            "initialPublishedDate": 1583129340524,
+            "templateId": "article",
+            "title": "This is a test article for march",
+            "type": "article",
+            "categoryName": "Cricket",
+            "otherCategoryIds": [
+                "life/food"
+            ],
+            "statusFields": {
+                "trending": true,
+                "amp-enable": true,
+                "editors-pick": true,
+                "recent": true,
+                "show-on-homepage": true,
+                "telegram": true,
+                "pushnotification": true
+            },
+            "createdAt": 1583129340166,
+            "intro": "<p>This is a test article for marchThis is a test article for marchThis is a test article for march</p>\n",
+            "lastUpdatedByUserId": "600631a6-f30c-5105-b999-6ece8c9061a0",
+            "seoMetaData": {
+                "description": "This is a test article for marchThis is a test article for march",
+                "tags": [
+                    "jjj"
+                ],
+                "title": "This is a test article for march | This is a test article for march..."
+            },
+            "bylineUserImageUrl": "https://static.asianetnews.co/images/authors/6234eca9-dea0-5f74-a579-fe6987885d44.jpg",
+            "id": "site/50et4t1p5/sports/cricket/50ej3bml9",
+            "place": {
+                "city": "Bangalore, Karnataka, India",
+                "latitude": 12.9715987,
+                "longitude": 77.5945627,
+                "address": "Bangalore, Karnataka, India"
+            },
+            "mainCategoryId": "sports/cricket",
+            "editors": [
+                {
+                    "name": "anoop mohan",
+                    "id": "dee9b748-f24a-5ff3-abac-5d7a194fcef1"
+                },
+                {
+                    "name": "Atique ahmed",
+                    "id": "600631a6-f30c-5105-b999-6ece8c9061a0"
+                },
+                {
+                    "name": "Chandan Saha",
+                    "id": "6234eca9-dea0-5f74-a579-fe6987885d44"
+                }
+            ],
+            "englishTitle": "This is a test article for march...",
+            "updatedAt": 1583473189511,
+            "summary": "<p>This is a test article for marchThis is a test article for march</p>\n",
+            "images": {
+                "main": {
+                    "url": "https://static.asianetnews.co/images/01e2d61v25swwsh18b0k6c199k/anushka-sharma-jpg.jpg",
+                    "id": "01e2d61v25swwsh18b0k6c199k",
+                    "caption": "<p><strong>Anushka sharma</strong></p>\n"
+                },
+                "focalPoint": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "authorId": "6234eca9-dea0-5f74-a579-fe6987885d44",
+            "isInstantArticle": true,
+            "priority": "low",
+            "editorIds": [
+                "6234eca9-dea0-5f74-a579-fe6987885d44",
+                "dee9b748-f24a-5ff3-abac-5d7a194fcef1",
+                "600631a6-f30c-5105-b999-6ece8c9061a0"
+            ],
+            "urlPath": "cricket-sports/this-is-a-test-article-for-march--q6jyf0",
+            "version": "main",
+            "tags": [
+                "Nidhin-Krishna",
+                "sample-test-subject-and-people-check",
+                "Kiki-dance",
+                "jayakumar",
+                "K-C-Palanisamy"
+            ],
+            "accountId": "site/50et4t1p5",
+            "contentSource": "our own",
+            "authorName": "Chandan Saha",
+            "scheduledPublishDate": 1583129100000,
+            "bylineUserName": "Chandan Saha",
+            "publishedDate": 1583129343404,
+            "bylineUserId": "6234eca9-dea0-5f74-a579-fe6987885d44",
+            "authorImageUrl": "https://static.asianetnews.co/images/authors/6234eca9-dea0-5f74-a579-fe6987885d44.jpg",
+            "status": "published"
+        },
+        {
+            "socialMetaData": {
+                "shareNow": false
+            },
+            "initialCreatedDate": "2020-02-20T06:15:09.724Z",
+            "customFields": {
+                "segmentsName": "Test Segment Sports",
+                "fakenewsmeta": {
+                    "claimReviewed": "This is test new so ignore it for now",
+                    "claimPublishDate": "03/09/2020 2:55 PM",
+                    "sourceNameClaimed": "test new",
+                    "sourceUrlClaimed": "https://staging-malayalam.asianetnews.co/?no-cache",
+                    "reviewRating": "5 - True"
+                }
+            },
+            "mobileTitle": "വോയ്‌സ് ഓവര്‍ വൈഫൈ സംവിധാനവുമായി \"എയര്‍ടെല്‍\"",
+            "body": "<p><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">മോശം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">നെറ്റ്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‌</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വർക്കും</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കോൾ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഡ്രോപ്പുകളുമാണ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">പൊതുവെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">മൊബൈൽ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">\"ഉപയോക്താക്കൾ</span></span>\" <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">അഭിമുഖീകരിക്കുന്ന</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">പ്രധാന</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">പ്രശ്നം</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">. </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വോയ്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‌</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കോളുകളുടെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കണക്റ്റിവിറ്റിയും</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഗുണനിലവാരവും</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">മെച്ചപ്പെടുത്തുന്നതിന്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">നെറ്റ്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‌</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വർക്ക്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ദാതാക്കൾ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ശ്രമിക്കാറുണ്ടെങ്കിലും</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">'പലപ്പോഴും'</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സാങ്കേതിക</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">പ്രശ്നങ്ങൾ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഉണ്ടാകാറുണ്ട്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">. </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സാഹചര്യത്തിലാണ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഇന്ത്യയിലെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ആദ്യ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വോയ്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‌</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഓവര്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍ </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൈഫൈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സംവിധാനവുമായി</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എയര്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ടെല്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍ </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">രംഗത്ത്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എത്തിയിരിക്കുന്നത്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">. </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">നെറ്റ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വർക്ക്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഇല്ലെങ്കിലും</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൈഫൈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഉപയോഗിച്ച്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഫോണ്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍ </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കോള്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍ </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ചെയ്യാവുന്ന</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സംവിധാനമാണ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എയര്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ടെല്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍ </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">അവതരിപ്പിച്ചിരിക്കുന്നത്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">. </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ടെലികോം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വ്യവസായത്തിൽ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വിപ്ലവം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സൃഷ്ടിക്കുന്ന</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എയര്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ടെല്ലിന്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">റെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">പുതിയ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സംവിധാനം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഇതിനോടകം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഒരു</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ദശലക്ഷം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഉപയോക്താക്കളെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">നേടി</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കഴിഞ്ഞു</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">. </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഇതോടെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൈഫൈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വഴി</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വോയ്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‌</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കോളുകൾ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">പ്രവർത്തനക്ഷമമാക്കുന്ന</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ആദ്യത്തെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">നെറ്റ്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‌</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വർക്ക്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ദാതാവായി</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഭാരതി</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എയർടെൽ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">മാറി</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">.</span></span><br />\n<br />\n<span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഒരു</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഔട്ട്ഡോറില്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍ </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കിട്ടുന്ന</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സിഗ്നല്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍ </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ക്വാളിറ്റിയില്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍ </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സിഗ്നല്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍ </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഇല്ലാത്ത</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സ്ഥലത്തും</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">നിങ്ങള്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ക്ക്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കോള്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍ </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ചെയ്യാനാവും</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">, </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൈഫൈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കോളിംഗ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സംവിധാനത്തിന്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കുറഞ്ഞ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഡാറ്റമാത്രമേ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ചിലവാകൂ</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">, </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഇതിന്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">പ്രത്യേക</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ചാര്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ജൊന്നും</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കൊടുക്കേണ്ട</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എന്നതാണ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">മറ്റൊരു</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഗുണം</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">. </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കോൾ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സമയത്ത്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കോൾ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഡ്രോപ്പുകളോ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ശബ്ദ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">പതർച്ചയോ</span></span> &nbsp;<span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഇല്ലാത്ത</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സേവനം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഉപഭോക്താവിന്റെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">അനുഭവം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">മെച്ചപ്പെടുത്തുന്നു</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">. </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ജമ്മു</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കശ്മീർ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഒഴികെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">രാജ്യത്തിന്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">റെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എല്ലാ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഭാഗങ്ങളിലും</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വോയ്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‌</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഓവര്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍ </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൈഫൈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സംവിധാനം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ലഭ്യമാണ്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">. </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൈഫൈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കോളിങ്ങിനായി</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഉപയോക്താക്കൾ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">പുതിയ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സിം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കണക്ഷനൊന്നും</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എടുക്കേണ്ട</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കാര്യമില്ല</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">. &nbsp;</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സ്മാർട്ഫോണുകളിൽ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സെറ്റിംഗ്സിൽ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഉള്ള</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സെർച്ച്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഫോർ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൈഫൈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കോളിംഗ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഓപ്ഷൻ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">അല്ലെങ്കിൽ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എനേബിൾ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൈഫൈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കാളിങ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഓപ്ഷൻ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എന്നിങ്ങനെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വോയ്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‌</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഓവർ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൈഫൈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സംവിധാനം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഓൺ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ചെയ്താൽ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">മതിയാകും</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">.</span></span><br />\n<br />\n<b><i><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">നിങ്ങൾക്ക്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വോയ്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‌</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഓവര്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍ </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൈഫൈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സംവിധാനം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ലഭ്യമാകാനുള്ള</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">മാർഗങ്ങൾ</span></span></i></b><br />\n<br />\n<span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">1) </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">നിങ്ങളുടെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">മൊബൈലിൽ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൈഫൈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കോളിംഗ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സംവിധാനം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ലഭിക്കുമോ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എന്ന്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">അറിയാൻ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എയർടെല്ലിന്റെ</span></span><br />\n<span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വെബ്സൈറ്റ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">നോക്കുക</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"> (<a href=\"http://airtel.in/wifi-calling\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">airtel.in/wifi-calling</a>)<br />\n<br />\n2) </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൈഫൈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സംവിധാനം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ലഭ്യമാവുന്ന</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">പതിപ്പാണ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">നിങ്ങളുടെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഫോണെന്ന്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഉറപ്പാക്കുക</span></span><br />\n<br />\n<span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">3)</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">മൊബൈൽ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സെറ്റിംഗിസിൽ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൈഫൈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കോളിംഗ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സംവിധാനം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഓണാക്കുക</span></span><br />\n<br />\n<span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">4)</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഒരേ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സമയം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">തടസമില്ലാതെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">കോളും</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഡാറ്റയും</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഉപയോഗിക്കാൻ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സാധിക്കുന്നതിനായി</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">നിങ്ങളുടെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഫോണിലെ</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"> VoLTE </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സംവിധാനം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സ്വിച്ച്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഓൺ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ചെയ്യുക</span></span><br />\n<br />\n<span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വിപണിയില്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍ </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ലഭ്യമാകുന്ന</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എല്ലാ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">പുതിയ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സ്മാർട്ട്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഫോണിലും</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സംവിധാനം</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ലഭ്യമാണ്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">. </span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">വൺ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">പ്ലസ്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സെറ്റിൽ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">എയര്</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">‍</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ടെൽ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഉപയോഗിക്കുന്നവർക്ക്</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">മാത്രമെ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ഈ</span></span> <span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">സംവിധാനം</span></span></p>\n\n<p style=\"margin-bottom:.0001pt; text-align:justify; margin:0cm 0cm 10pt\">Wi-Fi calling ഉം&nbsp;&nbsp;മറ്റു സവിശേഷ&nbsp;&nbsp;സൗകര്യങ്ങളും ലഭ്യമാകാൻ ഇന്നുതന്നെ&nbsp;Airtel ലേക്ക്&nbsp; മാറൂ.</p>\n",
+            "initialPublishedDate": 1582180830259,
+            "templateId": "article",
+            "title": "വോയ്‌സ് ഓവര്‍ വൈഫൈ സംവിധാനവുമായി \"എയര്‍ടെല്‍\"",
+            "type": "article",
+            "categoryName": "Technology",
+            "statusFields": {
+                "pushnotification": true,
+                "trending": true,
+                "amp-enable": true,
+                "latest": true,
+                "editors-pick": true,
+                "recent": true,
+                "show-on-homepage": true,
+                "telegram": true,
+                "fakenewsmeta": true
+            },
+            "createdAt": 1582180829419,
+            "lastUpdatedByUserId": "245453ea-ae29-5642-bbb9-eee71f952a2a",
+            "seoMetaData": {
+                "description": "ആദ്യ വോയ്‌സ് ഓവര്‍ വൈഫൈ സംവിധാനവുമായി എയര്‍ടെല്‍ രംഗത്ത്.",
+                "tags": [
+                    "technology",
+                    "mobile",
+                    "\"test\""
+                ],
+                "title": "വോയ്‌സ് ഓവര്‍ വൈഫൈ സംവിധാനവുമായി \"എയര്‍ടെല്‍\" | Airtel introduces voice call over wifi service for users, revolutionises the telecom industry"
+            },
+            "bylineUserImageUrl": "https://static.asianetnews.co/images/authors/7a2cffc7-5371-5619-a8b8-4f798c665ff4.jpg",
+            "id": "site/50et4t1p5/technology/lgvhq3849",
+            "place": {
+                "city": "Trivandrum, Kerala, India",
+                "latitude": 8.524139100000001,
+                "longitude": 76.9366376,
+                "address": "Trivandrum, Kerala, India"
+            },
+            "mainCategoryId": "technology",
+            "editors": [
+                {
+                    "name": "shivani mathur",
+                    "id": "7a2cffc7-5371-5619-a8b8-4f798c665ff4"
+                },
+                {
+                    "name": "Ashish Gupta",
+                    "id": "16efaf0d-ea0a-554c-b3b4-1ff7280d4b4e"
+                },
+                {
+                    "name": "Pankaj Garg",
+                    "id": "245453ea-ae29-5642-bbb9-eee71f952a2a"
+                },
+                {
+                    "name": "Atique ahmed",
+                    "id": "600631a6-f30c-5105-b999-6ece8c9061a0"
+                }
+            ],
+            "englishTitle": "Airtel introduces voice call over wifi service for users, revolutionises the telecom industry",
+            "updatedAt": 1583746448448,
+            "summary": "<p>ഒരു ഔട്ട്ഡോറില്‍ കിട്ടുന്ന സിഗ്നല്‍ ക്വാളിറ്റിയില്‍ സിഗ്നല്‍ ഇല്ലാത്ത \"സ്ഥലത്തും\" നിങ്ങള്‍ക്ക് കോള്‍ ചെയ്യാനാവും, 'വൈഫൈ' കോളിംഗ് സംവിധാനത്തിന് കുറഞ്ഞ ഡാറ്റമാത്രമേ ചിലവാകൂ, ഇതിന് പ്രത്യേക ചാര്‍ജൊന്നും കൊടുക്കേണ്ട എന്നതാണ് മറ്റൊരു ഗുണം.</p>\n",
+            "images": {
+                "main": {
+                    "url": "https://static.asianetnews.co/images/01e1gmvpqewk8tms5dysf1sn7n/airtel-wifi-calling-jpg.jpg",
+                    "id": "01e1gmvpqewk8tms5dysf1sn7n",
+                    "caption": "Airtel"
+                },
+                "focalPoint": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "authorId": "7a2cffc7-5371-5619-a8b8-4f798c665ff4",
+            "isInstantArticle": true,
+            "priority": "low",
+            "editorIds": [
+                "7a2cffc7-5371-5619-a8b8-4f798c665ff4",
+                "16efaf0d-ea0a-554c-b3b4-1ff7280d4b4e",
+                "245453ea-ae29-5642-bbb9-eee71f952a2a",
+                "600631a6-f30c-5105-b999-6ece8c9061a0"
+            ],
+            "urlPath": "technology/airtel-introduces-voice-call-over-wifi-service-for-users-revolutionises-the-telecom-industry-q5zmjh",
+            "version": "main",
+            "tags": [
+                "Smart-Phone"
+            ],
+            "accountId": "site/50et4t1p5",
+            "contentSource": "our own",
+            "authorName": "shivani mathur",
+            "bylineUserName": "shivani mathur",
+            "publishedDate": 1582180832298,
+            "bylineUserId": "7a2cffc7-5371-5619-a8b8-4f798c665ff4",
+            "authorImageUrl": "https://static.asianetnews.co/images/authors/7a2cffc7-5371-5619-a8b8-4f798c665ff4.jpg",
+            "status": "published"
+        },
+        {
+            "socialMetaData": {
+                "shareNow": false
+            },
+            "initialCreatedDate": "2020-02-14T06:22:15.871Z",
+            "mobileTitle": "This is instance article and telegram check",
+            "body": "<p>This is instance article and telegram checkThis is instance article and telegram checkThis is instance article and telegram checkThis is instance article and telegram checkThis is instance article and telegram check</p>\n",
+            "initialPublishedDate": 1581663236855,
+            "templateId": "article",
+            "title": "This is instance article and telegram check",
+            "type": "article",
+            "categoryName": "Food Adulteration",
+            "statusFields": {
+                "telegram": true,
+                "trending": true
+            },
+            "createdAt": 1581663236517,
+            "intro": "<p>This is instance article and telegram checkThis is instance article and telegram checkThis is instance article and telegram checkThis is instance article and telegram checkThis is instance article and telegram check</p>\n",
+            "lastUpdatedByUserId": "600631a6-f30c-5105-b999-6ece8c9061a0",
+            "seoMetaData": {
+                "description": "This is instance article and telegram checkThis is instance article and telegram checkThis is instance article and telegram checkThis is instance article and telegram check",
+                "tags": [
+                    "asdfd",
+                    "ddsa"
+                ],
+                "title": "This is instance article and telegram check | This is instance article and telegram check"
+            },
+            "bylineUserImageUrl": "https://static.asianetnews.co/images/authors/600631a6-f30c-5105-b999-6ece8c9061a0.jpg",
+            "id": "site/50et4t1p5/food-adulteration/l064k50k9",
+            "place": {
+                "city": "Bangalore, Karnataka, India",
+                "latitude": 12.9715987,
+                "longitude": 77.5945627,
+                "address": "Bangalore, Karnataka, India"
+            },
+            "mainCategoryId": "food-adulteration",
+            "editors": [
+                {
+                    "name": "Atique ahmed",
+                    "id": "600631a6-f30c-5105-b999-6ece8c9061a0"
+                }
+            ],
+            "englishTitle": "This is instance article and telegram check",
+            "updatedAt": 1581663362642,
+            "summary": "<p>This is instance article and telegram checkThis is instance article and telegram checkThis is instance article and telegram check</p>\n",
+            "images": {
+                "main": {
+                    "url": "https://static.asianetnews.com/images/01dwh3cvyzmvmkhyyzvamdehfv/rgltcg7v-jpg.jpg",
+                    "id": "01dwh3cvyzmvmkhyyzvamdehfv",
+                    "caption": "sunny leyone"
+                },
+                "focalPoint": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "authorId": "600631a6-f30c-5105-b999-6ece8c9061a0",
+            "isInstantArticle": true,
+            "priority": "low",
+            "editorIds": [
+                "600631a6-f30c-5105-b999-6ece8c9061a0"
+            ],
+            "urlPath": "food-adulteration/this-is-instance-article-and-telegram-check-q5oj5x",
+            "version": "main",
+            "tags": [
+                "pk-sasi-mla"
+            ],
+            "accountId": "site/50et4t1p5",
+            "authorName": "Atique ahmed",
+            "scheduledPublishDate": 1581663180000,
+            "bylineUserName": "Atique ahmed",
+            "publishedDate": 1581663238011,
+            "bylineUserId": "600631a6-f30c-5105-b999-6ece8c9061a0",
+            "authorImageUrl": "https://static.asianetnews.co/images/authors/600631a6-f30c-5105-b999-6ece8c9061a0.jpg",
+            "status": "published"
+        },
+        {
+            "socialMetaData": {
+                "shareNow": false
+            },
+            "initialCreatedDate": "2020-01-16T06:08:05.132Z",
+            "mobileTitle": "Article Scheduler Checking",
+            "body": "<p>vArticle Scheduler CheckingArticle Scheduler CheckingArticle Scheduler CheckingArticle Scheduler CheckingArticle Scheduler Checking</p>\n",
+            "initialPublishedDate": 1581663392575,
+            "templateId": "article",
+            "title": "Article Scheduler Checking",
+            "type": "article",
+            "categoryName": "keralabudget2016",
+            "otherCategoryIds": [
+                "auto-and-travel-auto/vehicles"
+            ],
+            "statusFields": {
+                "trending": true,
+                "amp-enable": true,
+                "recent": true,
+                "telegram": true
+            },
+            "createdAt": 1579155103666,
+            "intro": "<p>Article Scheduler CheckingArticle Scheduler CheckingArticle Scheduler Checking</p>\n",
+            "lastUpdatedByUserId": "600631a6-f30c-5105-b999-6ece8c9061a0",
+            "seoMetaData": {
+                "description": "Article Scheduler CheckingArticle Scheduler CheckingArticle Scheduler CheckingArticle Scheduler CheckingArticle Scheduler CheckingArticle Scheduler Checking",
+                "tags": [
+                    "ddsasd"
+                ],
+                "title": "Article Scheduler Checking | Article Scheduler Checking"
+            },
+            "bylineUserImageUrl": "https://static.asianetnews.co/images/authors/854a910b-6c0b-5329-a11f-b65fba2173c3.jpg",
+            "id": "site/50et4t1p5/keralabudget2016/50huegqhp",
+            "place": {
+                "city": "Bengaluru, Karnataka, India",
+                "latitude": 12.9715987,
+                "longitude": 77.5945627,
+                "address": "Bengaluru, Karnataka, India"
+            },
+            "mainCategoryId": "keralabudget2016",
+            "editors": [
+                {
+                    "name": "Atique ahmed",
+                    "id": "600631a6-f30c-5105-b999-6ece8c9061a0"
+                }
+            ],
+            "englishTitle": "Article Scheduler Checking",
+            "updatedAt": 1581663429836,
+            "summary": "<p>Article Scheduler CheckingArticle Scheduler CheckingArticle Scheduler CheckingArticle Scheduler CheckingArticle Scheduler CheckingArticle Scheduler CheckingArticle Scheduler CheckingArticle Scheduler Checking</p>\n",
+            "images": {
+                "main": {
+                    "url": "https://static.asianetnews.co/images/01dymahf062vwzhtjxa84aw6n9/kareena-kapoor-jpg.jpg",
+                    "id": "01dymahf062vwzhtjxa84aw6n9",
+                    "caption": "Kareena"
+                },
+                "focalPoint": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "authorId": "600631a6-f30c-5105-b999-6ece8c9061a0",
+            "isInstantArticle": true,
+            "priority": "low",
+            "editorIds": [
+                "600631a6-f30c-5105-b999-6ece8c9061a0"
+            ],
+            "urlPath": "keralabudget2016/article-scheduler-checking-q46rvk",
+            "version": "main",
+            "tags": [
+                "Dhayalu-Ammal"
+            ],
+            "accountId": "site/50et4t1p5",
+            "contentSource": "ANI",
+            "authorName": "Atique ahmed",
+            "scheduledPublishDate": 1579155480000,
+            "bylineUserName": "sesuraj arul",
+            "publishedDate": 1579155113253,
+            "bylineUserId": "854a910b-6c0b-5329-a11f-b65fba2173c3",
+            "authorImageUrl": "https://static.asianetnews.co/images/authors/600631a6-f30c-5105-b999-6ece8c9061a0.jpg",
+            "status": "published"
+        },
+        {
+            "socialMetaData": "{\"shareNow\":false}",
+            "initialCreatedDate": "2019-12-20T04:10:25.078Z",
+            "mobileTitle": "വരൂ... നമുക്കൊന്നിച്ച് രാജ്യത്തിനായി പോരാടാം; പൊലീസിന് പൂക്കളുമായി വിദ്യാര്‍ത്ഥികള്‍",
+            "initialPublishedDate": 1576822040827,
+            "templateId": "gallery",
+            "title": "വരൂ... നമുക്കൊന്നിച്ച് രാജ്യത്തിനായി പോരാടാം; പൊലീസിന് പൂക്കളുമായി വിദ്യാര്‍ത്ഥികള്‍ 123",
+            "type": "photo_news",
+            "categoryName": "India",
+            "statusFields": {
+                "trending": true,
+                "amp-enable": true,
+                "latest": true,
+                "telegram": true
+            },
+            "createdAt": 1576822040547,
+            "intro": "<p><br />\nപൗരത്വ നിയമ ഭേദഗതിക്കെതിരെ വ്യത്യസ്തമായ പ്രക്ഷോപവുമായി ദില്ലിയിലെ വിദ്യാര്‍ത്ഥികള്‍. കഴി‌ഞ്ഞ ദിവസം സമാധാനപരമായി പ്രതിഷേധം നടത്തിയ ജാമിയ മിലിയ സര്‍വ്വകലാശാലയില്‍ അതിക്രമിച്ച് കയറിയ ദില്ലി പൊലീസ് ലൈബ്രറിയിലടക്കം കയറി അതിക്രമം നടത്തുകയും വിദ്യാര്‍ത്ഥികള്‍ക്ക് നേരെ വെടിവെക്കുകയും ചെയ്തിരുന്നു. ഇതിന് പിന്നാലെ ദില്ലിയിലേക്ക് നടത്തിയ പ്രതിഷധേ പ്രകടനങ്ങള്‍ ദില്ലിയുടെ പല ഭാഗങ്ങളില്‍ പൊലീസ് തടഞ്ഞു. ഇതിനെ തുടര്‍ന്നാണ് വിദ്യാര്‍ത്ഥികള്‍ പൊലീസുകാര്‍ക്ക് നേരെ പൂച്ചെണ്ടുകള്‍ നീട്ടിയത്. കൂടാതെ ദില്ലി ജന്ദര്‍ മന്ദിറിലേക്കുള്ള പ്രകടനത്തില്‍ തങ്ങള്‍ക്കൊപ്പം ചേരാന്‍ വിദ്യാര്‍ത്ഥികള്‍ പൊലീസുകാരെ ക്ഷണിക്കുകയും ചെയ്തു.&nbsp;</p>\n\n<p>ഇതിനിടെ ബിജെപി ഭരിക്കുന്ന സംസ്ഥാനങ്ങളായ ഉത്തര്‍പ്രദേശിലും കര്‍ണ്ണാടകയിലും പൊലീസ് സമാധാനപരമായി പ്രതിഷേധം നടത്തുകയായിരുന്നു ജനങ്ങള്‍ക്ക് നേരെ ലാത്തി വീശി. മംഗലാപുരത്ത് പൊലീസ് സ്റ്റേഷന്‍ അക്രമിച്ചെന്നാരോപിച്ച് പൊലീസ് നടത്തിയ വെടിവെപ്പില്‍ രണ്ട് പേര്‍ മരിച്ചു. ഇതിനിടെ മിക്ക സംസ്ഥാനത്തും നിരോധനാജ്ഞ പ്രഖ്യാപിച്ചു. പലസ്ഥലത്തും പൊലീസ് കര്‍ശന പരിശോധനയിലാണ്. മംഗലാപുരത്ത് ഏഷ്യാനെറ്റ്, മാതൃഭൂമി, മനോരമ, ന്യൂസ് 24 തുടങ്ങിയ മാധ്യമ സ്ഥാപനങ്ങളിലെ പത്തിലധികം മാധ്യമപ്രവര്‍ത്തകരെ പൊലീസ് അറസ്റ്റ് ചെയ്തു. ഉത്തര്‍പ്രദേശില്‍ ഒരാളും മംഗലാപുരത്ത് രണ്ട് പേരും പൊലീസ് വെടിവെപ്പില്‍ കൊല്ലപ്പെട്ടു. കാണാം ഇന്ത്യ കണ്ട പ്രതിഷേധങ്ങള്‍. $$$$$$</p>\n",
+            "lastUpdatedByUserId": "6234eca9-dea0-5f74-a579-fe6987885d44",
+            "seoMetaData": {
+                "description": "delhi protest against citizenship amendment act\nബിജെപി ഭരിക്കുന്ന സംസ്ഥാനങ്ങളായ ഉത്തര്‍പ്രദേശിലും കര്‍ണ്ണാടകയിലും പൊലീസ് സമാധാനപരമായി പ്രതിഷേധം നടത്തുകയായിരുന്നു ജനങ്ങള്‍ക്ക് നേരെ ലാത്തി വീശി. മംഗലാപുരത്ത് പൊലീസ് സ്റ്റേഷന്‍ അക്രമിച്ചെന്നാരോപിച്ച് പൊലീസ് നടത്തിയ വെടിവെപ്പില്‍ രണ്ട് പേര്‍ മരിച്ചു. ഇതിനിടെ മിക്ക സംസ്ഥാനത്തും നിരോധനാജ്ഞ പ്രഖ്യാപിച്ചു.",
+                "tags": [
+                    "delhi",
+                    "protest against citizenship amendment act",
+                    "CAA",
+                    "CAB",
+                    "NRC ILP",
+                    "protest against caa",
+                    "bjp",
+                    "jamiya",
+                    "jnu",
+                    "students in delhi",
+                    "delhi students protest"
+                ],
+                "title": "വരൂ... നമ്മുക്കൊന്നിച്ച് രാജ്യത്തിനായി പോരാടാം; പൊലീസിന് പൂക്കളുമായി വിദ്യാര്‍ത്ഥികള്‍ | delhi protest against citizenship amendment act"
+            },
+            "bylineUserImageUrl": "https://static.asianetnews.com/images/authors/505eb3cc-6d2a-5f3a-aa1a-b10521c5a3e5.jpg",
+            "id": "site/50et4t1p5/news/india/5gal5nmf8",
+            "place": {
+                "city": "Thiruvananthapuram",
+                "address": "Thiruvananthapuram"
+            },
+            "mainCategoryId": "news/india",
+            "editors": [
+                {
+                    "name": "Balu KG",
+                    "id": "078bae53-cfc8-5bf2-a623-839fb3b241fc"
+                },
+                {
+                    "name": "Ashish Gupta",
+                    "id": "16efaf0d-ea0a-554c-b3b4-1ff7280d4b4e"
+                },
+                {
+                    "name": "Chandan Saha",
+                    "id": "6234eca9-dea0-5f74-a579-fe6987885d44"
+                }
+            ],
+            "englishTitle": "delhi protest against citizenship amendment act",
+            "updatedAt": 1579083625084,
+            "summary": "<p><br />\nപൗരത്വ നിയമ ഭേദഗതിക്കെതിരെ വ്യത്യസ്തമായ പ്രക്ഷോപവുമായി ദില്ലിയിലെ വിദ്യാര്‍ത്ഥികള്‍. കഴി‌ഞ്ഞ ദിവസം സമാധാനപരമായി പ്രതിഷേധം നടത്തിയ ജാമിയ മിലിയ സര്‍വ്വകലാശാലയില്‍ അതിക്രമിച്ച് കയറിയ ദില്ലി പൊലീസ് ലൈബ്രറിയിലടക്കം കയറി അതിക്രമം നടത്തുകയും വിദ്യാര്‍ത്ഥികള്‍ക്ക് നേരെ വെടിവെക്കുകയും ചെയ്തിരുന്നു. ഇതിന് പിന്നാലെ ദില്ലിയിലേക്ക് നടത്തിയ പ്രതിഷധേ പ്രകടനങ്ങള്‍ ദില്ലിയുടെ പല ഭാഗങ്ങളില്‍ പൊലീസ് തടഞ്ഞു. ഇതിനെ തുടര്‍ന്നാണ് വിദ്യാര്‍ത്ഥികള്‍ പൊലീസുകാര്‍ക്ക് നേരെ പൂച്ചെണ്ടുകള്‍ നീട്ടിയത്. കൂടാതെ ദില്ലി ജന്ദര്‍ മന്ദിറിലേക്കുള്ള പ്രകടനത്തില്‍ തങ്ങള്‍ക്കൊപ്പം ചേരാന്‍ വിദ്യാര്‍ത്ഥികള്‍ പൊലീസുകാരെ ക്ഷണിക്കുകയും ചെയ്തു.&nbsp; &nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>ഇതിനിടെ ബിജെപി ഭരിക്കുന്ന സംസ്ഥാനങ്ങളായ ഉത്തര്‍പ്രദേശിലും കര്‍ണ്ണാടകയിലും പൊലീസ് സമാധാനപരമായി പ്രതിഷേധം നടത്തുകയായിരുന്നു ജനങ്ങള്‍ക്ക് നേരെ ലാത്തി വീശി. മംഗലാപുരത്ത് പൊലീസ് സ്റ്റേഷന്‍ അക്രമിച്ചെന്നാരോപിച്ച് പൊലീസ് നടത്തിയ വെടിവെപ്പില്‍ രണ്ട് പേര്‍ മരിച്ചു. ഇതിനിടെ മിക്ക സംസ്ഥാനത്തും നിരോധനാജ്ഞ പ്രഖ്യാപിച്ചു. പലസ്ഥലത്തും പൊലീസ് കര്‍ശന പരിശോധനയിലാണ്. മംഗലാപുരത്ത് ഏഷ്യാനെറ്റ്, മാതൃഭൂമി, മനോരമ, ന്യൂസ് 24 തുടങ്ങിയ മാധ്യമ സ്ഥാപനങ്ങളിലെ പത്തിലധികം മാധ്യമപ്രവര്‍ത്തകരെ പൊലീസ് അറസ്റ്റ് ചെയ്തു. ഉത്തര്‍പ്രദേശില്‍ ഒരാളും മംഗലാപുരത്ത് രണ്ട് പേരും പൊലീസ് വെടിവെപ്പില്‍ കൊല്ലപ്പെട്ടു. കാണാം ഇന്ത്യ കണ്ട പ്രതിഷേധങ്ങള്‍.</p>\n<style type=\"text/css\">.right-side{display:none;} .left-side{width:100%;} .gallery-post h2.quotes.gd-h{font-size: 14px}\n</style>\n",
+            "images": {
+                "main": {
+                    "url": "https://static.asianetnews.com/images/01dwh2aps6mkmpjngvcsd8k628/studnts-png.jpg",
+                    "id": "01dwh2aps6mkmpjngvcsd8k628"
+                },
+                "other": [
+                    {
+                        "id": "01dwgynr4070fxjbzdqrm6n099",
+                        "url": "https://static.asianetnews.com/images/01dwgynr4070fxjbzdqrm6n099/getty---20--jpg.jpg",
+                        "caption": "പൊലീസ് ഉദ്യാഗസ്ഥന് റോസാപ്പൂ സമ്മാനിക്കുന്ന പൗരത്വ നിയമ ഭേദഗതി പ്രതിഷേധത്തില്‍ പങ്കെടുക്കുന്ന വിദ്യാര്‍ത്ഥിനി. ഇത്തരത്തില്‍ ദില്ലിയില്‍ വിദ്യാര്‍ത്ഥികള്‍ പൊലീസിന് പൂക്കള്‍ നല്‍കുകയും തങ്ങളോടൊത്ത് ജന്ദിര്‍ മന്ദിറില്‍ രാജ്യത്തിന് വേണ്ടി  പ്രതിഷേധിക്കാന്‍  ക്ഷണിക്കുകയുമായിരുന്നു."
+                    },
+                    {
+                        "id": "01dwgynrvcyqf0kwjn9ctg3ykm",
+                        "url": "https://static.asianetnews.com/images/01dwgynrvcyqf0kwjn9ctg3ykm/getty---21--jpg.jpg",
+                        "caption": "പൗരത്വ ഭേദഗതി നിയമത്തിനെതിരെ പ്രക്ഷോഭം കനക്കുന്ന സാഹചര്യത്തില്‍ ഉത്തർപ്രദേശിൽ കൂടുതൽ സ്ഥലങ്ങളിൽ ഇന്‍റർനെറ്റിന് നിയന്ത്രണം."
+                    },
+                    {
+                        "id": "01dwgyns57hrs5rgjxtawh5a2c",
+                        "url": "https://static.asianetnews.com/images/01dwgyns57hrs5rgjxtawh5a2c/getty---23--jpg.jpg",
+                        "caption": "ഉത്തർപ്രദേശിൽ ലക്നൗ, ആഗ്ര, പ്രയാഗ് രാജ് ഉൾപ്പെടെ 11 നഗരങ്ങളിലാണ് ഇന്‍റര്‍നെറ്റ് നിയന്ത്രണം. ലഖ്‍നൗവില്‍ നാളെ വരെ ഇന്‍റര്‍നെറ്റ് നിയന്ത്രണം തുടരുമെന്ന് അധികൃതര്‍ അറിയിച്ചു. അതേസമയം മധ്യപ്രദേശിൽ 44 ഇടത്ത് നിരോധനാജ്ഞ പ്രഖ്യാപിച്ചു."
+                    },
+                    {
+                        "id": "01dwgynsh5k9td19neacmv2tv5",
+                        "url": "https://static.asianetnews.com/images/01dwgynsh5k9td19neacmv2tv5/getty---24--jpg.jpg",
+                        "caption": "പൗരത്വ നിയമഭേദഗതിക്കെതിരെ ഉത്തര്‍പ്രദേശിലെ ലക്നൗവിൽ നടന്ന പ്രതിഷേധം ഇന്നലെ അക്രമാസക്തമായി. ഒരാൾ വെടിയേറ്റ് മരിച്ചു. എന്നാല്‍ പൊലീസ് വെടിവെച്ചില്ലെന്ന് യുപി ഡിജിപി വ്യക്തമാക്കി."
+                    },
+                    {
+                        "id": "01dwgyr73zfy1fhf4qpbvkb903",
+                        "url": "https://static.asianetnews.com/images/01dwgyr73zfy1fhf4qpbvkb903/getty---1--jpg.jpg",
+                        "caption": "ഓൾ‍ഡ് ലക്നൗ മേഖലയിൽ ഒരു പൊലീസ് ഔട്ട് പോസ്റ്റ് കത്തിച്ചു. പൊലീസ് വാൻ ഉൾപ്പടെ മുപ്പതോളം വാഹനങ്ങൾ അഗിനിക്കിരയാക്കി. മാധ്യമങ്ങളുടെ നാല് ഒബി വാനുകൾ കത്തിച്ചു. മാധ്യമപ്രവർത്തകർക്ക് പരിക്കേറ്റു."
+                    },
+                    {
+                        "id": "01dwgyr81w352e6mrm0y040h3f",
+                        "url": "https://static.asianetnews.com/images/01dwgyr81w352e6mrm0y040h3f/getty---3--jpg.jpg",
+                        "caption": "ഉത്തർപ്രദേശിലെ തന്നെ സംഭലിൽ വ്യാപക അക്രമം നടന്നു. ബസുകൾ കത്തിച്ചു. ഖുശിനഗറിലും പോലീസും പ്രതിഷേധക്കാരും ഏറ്റുമുട്ടി."
+                    },
+                    {
+                        "id": "01dwgyr8q644sqapvgm6f96n5h",
+                        "url": "https://static.asianetnews.com/images/01dwgyr8q644sqapvgm6f96n5h/getty---5--jpg.jpg",
+                        "caption": "മംഗളൂരുവില്‍ മലയാളി മാധ്യമപ്രവര്‍ത്തകരെ പൊലീസ് കസ്റ്റഡിയില്‍ എടുത്തു. സിറ്റി പൊലീസ് കമ്മീഷണറുടെ നേതൃത്വത്തിലാണ് മാധ്യമപ്രവര്‍ത്തകരെ കസ്റ്റഡിയില്‍ എടുത്തത്."
+                    },
+                    {
+                        "id": "01dwgyr8ztn7je31gj00d0f5v2",
+                        "url": "https://static.asianetnews.com/images/01dwgyr8ztn7je31gj00d0f5v2/getty---7--jpg.jpg",
+                        "caption": "ഇന്നലെ മംഗലാപുരത്ത് ഉണ്ടായ സംഘര്‍ഷത്തില്‍ കൊല്ലപ്പെട്ടവരുടെ മൃതദേഹങ്ങള്‍ സൂക്ഷിച്ചിരിക്കുന്ന വെന്‍ലോക്ക് ആശുപത്രിക്ക് സമീപത്ത് നിന്ന് റിപ്പോര്‍ട്ട് ചെയ്യുകയായിരുന്ന മാധ്യമപ്രവര്‍ത്തകരെയാണ് പൊലീസ് കസ്റ്റഡിയില്‍ എടുത്തിയത്."
+                    },
+                    {
+                        "id": "01dwgyr99826ma6gexe77sb43n",
+                        "url": "https://static.asianetnews.com/images/01dwgyr99826ma6gexe77sb43n/getty---9--jpg.jpg",
+                        "caption": "ഇന്നലെ മംഗളൂരുവില്‍ നടന്ന പ്രതിഷേധത്തിനിടെ രണ്ട് പേരാണ് കൊല്ലപ്പെട്ടത്. പ്രതിഷേധം സംഘര്‍ഷത്തിലേക്ക് വഴിമാറാനുള്ള സാധ്യത കണക്കിലെടുത്ത് മംഗളൂരുവില്‍ നേരത്തേ തന്നെ നിരോധനാജ്ഞ പ്രഖ്യാപിച്ചിരുന്നു. എന്നാല്‍ ആയിരക്കണക്കിന് ആളുകള്‍ ഇന്നലെ പ്രതിഷേധ പ്രകടനത്തില്‍ പങ്കെടുത്തു."
+                    },
+                    {
+                        "id": "01dwgyr9hamr3g3q2q61ch4haj",
+                        "url": "https://static.asianetnews.com/images/01dwgyr9hamr3g3q2q61ch4haj/getty---10--jpg.jpg",
+                        "caption": "കമ്മീഷണര്‍ ഓഫീസിലേക്ക് നീങ്ങിയ പ്രതിഷേധമാര്‍ച്ച് പൊലീസ് തടഞ്ഞതോടെയാണ് സംഘര്‍ഷം ആരംഭിച്ചത്. റബര്‍ ബുള്ളറ്റിന്‍ ഉപയോഗിച്ച് വെടിവെപ്പ് നടത്തുകയായിരുന്നു."
+                    },
+                    {
+                        "id": "01dwgyr9vdvzz8rgc3hxgb1kqp",
+                        "url": "https://static.asianetnews.com/images/01dwgyr9vdvzz8rgc3hxgb1kqp/getty---11--jpg.jpg",
+                        "caption": "ഇതിനിടെ പൗരത്വ ഭേദഗതി നിയമത്തിന് എതിരെ മംഗളൂരുവില്‍ നടന്ന പ്രതിഷേധത്തില്‍ സംഘർഷമുണ്ടാക്കിയത് കേരളത്തിൽ നിന്നുള്ളവരെന്ന് കർണാടക ആഭ്യന്തര മന്ത്രി ബസവരാജ്‌ ബൊമ്മൈ ആരോപിച്ചു."
+                    },
+                    {
+                        "id": "01dwgyra53a04tpayzk5e2j9ba",
+                        "url": "https://static.asianetnews.com/images/01dwgyra53a04tpayzk5e2j9ba/getty---8--jpg.jpg",
+                        "caption": "കമ്മീഷണറേറ്റ് പരിധിയില്‍ മുഴുവന്‍ കര്‍ഫ്യൂ പ്രഖ്യാപിച്ചിരിക്കുകയാണ്. നേരത്തെ അഞ്ച് പൊലീസ് സ്റ്റേഷന്‍ പരിധിയില്‍ മാത്രമായിരുന്നു കര്‍ഫ്യൂ."
+                    },
+                    {
+                        "id": "01dwgyradph27038b02bxb2ead",
+                        "url": "https://static.asianetnews.com/images/01dwgyradph27038b02bxb2ead/getty---14--jpg.jpg",
+                        "caption": "കർണാടകത്തിലെ മുഴുവൻ ജില്ലകളിലും ജാഗ്രതാ നിർദ്ദേശം നല്‍കി. സമാധാനം പാലിക്കണമെന്ന് മുഖ്യമന്ത്രി ബി എസ് യെദിയൂരപ്പ അഭ്യർത്ഥിച്ചു. കലബുറഗി, മൈസൂരു, ഹാസൻ, ബെല്ലാരി, ഉത്തര കന്നഡ ജില്ലകളിൽ കൂടുതൽ പൊലീസിനെ വിന്യസിച്ചിട്ടുണ്ട്."
+                    },
+                    {
+                        "id": "01dwgyramnvwrc9p1j1agtgzf4",
+                        "url": "https://static.asianetnews.com/images/01dwgyramnvwrc9p1j1agtgzf4/getty---30--jpg.jpg",
+                        "caption": "രേഖകൾ പരിശോധിക്കാനാണ് മംഗലൂരുവിൽ മാധ്യമപ്രകവര്‍ത്തകരെ കസ്റ്റഡിയിലെടുത്തതെന്ന വിശദീകരണവുമായി മംഗളൂരു പൊലീസ്. രേഖകൾ പരിശോധിച്ച് വരികയാണ്."
+                    },
+                    {
+                        "id": "01dwgyrb00r715vzntsccv3sq3",
+                        "url": "https://static.asianetnews.com/images/01dwgyrb00r715vzntsccv3sq3/getty---16--jpg.jpg",
+                        "caption": "അതിന് ശേഷം ആവശ്യമായ രേഖകൾ ഉള്ളവരെ മാത്രം റിപ്പോര്‍ട്ടിംഗിന് അനുവദിക്കാമെന്നുമാണ് ഇപ്പോൾ പൊലീസിന്‍റെ നിലപാട്."
+                    },
+                    {
+                        "id": "01dwgyrb753bkfexdmps0dep0s",
+                        "url": "https://static.asianetnews.com/images/01dwgyrb753bkfexdmps0dep0s/getty---15--jpg.jpg",
+                        "caption": "അതിനിടെ മലയാളി മാധ്യമപ്രവര്‍ത്തകരുടെ കസ്റ്റഡി സംബന്ധിച്ച് പൊലീസ് കസ്റ്റഡിയിൽ എടുത്തിരിക്കുന്നവരാരും ഔപചാരിക മാധ്യമ പ്രവര്‍ത്തകരല്ലെന്ന വിശദീകരണമാണ് കമ്മീഷണര്‍ ഓഫീസിൽ നിന്ന് ഇറക്കിയവാര്‍ത്താ കുറിപ്പിൽ ഉള്ളത്. ഇവരെല്ലാം തന്നെ കേരളത്തില്‍ നിന്നുള്ള പ്രമുഖ മാധ്യമസ്ഥാപനങ്ങളിലെ മാധ്യമപ്രവര്‍ത്തകരാണ്."
+                    },
+                    {
+                        "id": "01dwgyrbh58takrv5ahtrr2ycb",
+                        "url": "https://static.asianetnews.com/images/01dwgyrbh58takrv5ahtrr2ycb/getty---12--jpg.jpg",
+                        "caption": "ഏഷ്യാനെറ്റ് ന്യൂസ് സംഘത്തിന്‍റേത് അടക്കം സ്ഥാപനത്തിന്‍റെ പേരും വിശദാംശങ്ങളും ചോദിച്ച് അറിഞ്ഞ ശേഷമാണ് പൊലീസ് കസ്റ്റഡിയിലെടുത്തതെന്നിരിക്കെയാണ് വിചിത്ര വാദവുമായി വാര്‍ത്താ കുറിപ്പ് ഇറക്കിയത്."
+                    },
+                    {
+                        "id": "01dwgyrbt31vnaxejh85pzzvdd",
+                        "url": "https://static.asianetnews.com/images/01dwgyrbt31vnaxejh85pzzvdd/getty---18--jpg.jpg",
+                        "caption": "കസ്റ്റഡിയിലായ മാധ്യമപ്രവര്‍ത്തകരുടെ സുരക്ഷ ഉറപ്പാക്കുമെന്ന് ഡിജിപി ലോക്നാഥ് ബെഹ്റ പ്രതികരിച്ചു. ഡിജിപിയും ചീഫ് സെക്രട്ടറിയും കര്‍ണാടക ഉന്നത ഉദ്യോഗസ്ഥരുമായി സംസാരിക്കുന്നുണ്ട്."
+                    },
+                    {
+                        "id": "01dwgyrc3emggkwxscxgqz5sr8",
+                        "url": "https://static.asianetnews.com/images/01dwgyrc3emggkwxscxgqz5sr8/getty---29--jpg.jpg",
+                        "caption": "വലിയ എതിര്‍പ്പാണ് മംഗളൂരു പൊലീസിന്‍റെ നടപടിക്കെതിരെ ഉയര്‍ന്നിട്ടുള്ളത്. അതിനിടെ കര്‍ണാടക അതിര്‍ത്തിയിൽ കേരളത്തിൽ നിന്നുള്ള വാഹനങ്ങൾ തടയുന്നുണ്ട്. മംഗളൂരു സംഘര്‍ഷത്തിന്‍റെ പശ്ചാത്തലത്തിൽ കേരളത്തിന്‍റെ വടക്കൻ ജില്ലകളിൽ കനത്ത ജാഗ്രതയിലാണ്."
+                    },
+                    {
+                        "id": "01dwgyrcd6tfm1sg56gvqqej8e",
+                        "url": "https://static.asianetnews.com/images/01dwgyrcd6tfm1sg56gvqqej8e/getty---17--jpg.jpg",
+                        "caption": "എന്നാല്‍, പൗരത്വ നിയമ ഭേദഗതിക്കെതിരെ പ്രതിഷേധിച്ച് തെരുവിലിറങ്ങിയവര്‍ക്കെതിരെ ഭീഷണിയുമായി ഉത്തര്‍പ്രദേശ് മുഖ്യമന്ത്രി ആദിത്യനാഥ്."
+                    },
+                    {
+                        "id": "01dwgyrcm08x2fbxds3t3k9n6x",
+                        "url": "https://static.asianetnews.com/images/01dwgyrcm08x2fbxds3t3k9n6x/getty---19--jpg.jpg",
+                        "caption": "പ്രതിഷേധക്കാര്‍ സര്‍ക്കാറിന്‍റെ പ്രതികാര നടപടി നേരിടേണ്ടി വരുമെന്നും അക്രമമുണ്ടാക്കുന്നവരുടെ സ്വത്ത് കണ്ടുകെട്ടുമെന്നുമായിരുന്നു ആദിത്യനാഥ് പറഞ്ഞത്."
+                    },
+                    {
+                        "id": "01dwgyrcxgrm0ew197r0g4xqpm",
+                        "url": "https://static.asianetnews.com/images/01dwgyrcxgrm0ew197r0g4xqpm/getty---42--jpg.jpg",
+                        "caption": "ജനാധിപത്യത്തില്‍ ആക്രമണത്തിന് സ്ഥാനമില്ല. പൗരത്വ നിയമ ഭേദഗതിക്കെതിരെയെന്ന പേരില്‍ എസ്‍പി, കോണ്‍ഗ്രസ്, ഇടതുപാര്‍ട്ടികള്‍ എന്നിവര്‍ ആക്രമണം അഴിച്ചുവിടുകയാണ്. രാജ്യത്തെ തീയിലേക്ക് തള്ളിവിടുകയാണ് ഇവര്‍ ചെയ്യുന്നത്."
+                    },
+                    {
+                        "id": "01dwgyrd68as3d29kerfx3hm2f",
+                        "url": "https://static.asianetnews.com/images/01dwgyrd68as3d29kerfx3hm2f/getty---25--jpg.jpg",
+                        "caption": "ലക്നൗവിലും സംഭാലിലും ആക്രമണമുണ്ടായി. സര്‍ക്കാര്‍ ശക്തമായി നേരിടും. പൊതുമുതല്‍ നശിപ്പിക്കുന്നവരില്‍ നിന്ന് തന്നെ ഈടാക്കും. സിസിടിവി ദൃശ്യങ്ങളും വീഡിയോകളും പരിശോധിച്ച് പ്രതിഷേധക്കാര്‍ക്കുനേരെ പ്രതികാര നടപടിയെടുക്കുമെന്നും അദ്ദേഹം പറഞ്ഞു."
+                    },
+                    {
+                        "id": "01dwgyrde930tszjhp4v1jhp6m",
+                        "url": "https://static.asianetnews.com/images/01dwgyrde930tszjhp4v1jhp6m/getty---26--jpg.jpg",
+                        "caption": "പൗരത്വ ഭേദഗതി നിയമത്തിന് എതിരെ നാളെ ബിഹാറില്‍ ആര്‍ജെഡി ബന്ദ് നടത്തുമെന്ന് പ്രഖ്യാപിച്ചു. ഇടതുപാർട്ടികളും ബന്ദിന് പിന്തുണ പ്രഖ്യാപിച്ചു. പൗരത്വ ഭേദഗതി നിയമം ഭരണഘടനാവിരുദ്ധവും മനുഷ്യത്വ വിരുദ്ധവുമാണ്. ഭിന്നിപ്പിച്ച് ഭരിക്കുന്ന ബിജെപിയെ പൗരത്വ ഭേദഗതി നിയമം വെളിച്ചെത്ത് കൊണ്ടുവന്നെന്നും ആര്‍ജെഡി നേതാവ് തേജ്വസി യാദവ് പറഞ്ഞു. പൗരത്വ ഭേദഗതി നിയമം പാര്‍ലമെന്‍റ് പാസാക്കിയതോടെ രാജ്യവ്യാപകമായി പ്രതിഷേധങ്ങള്‍ കനക്കുകയാണ്."
+                    },
+                    {
+                        "id": "01dwgyrdre9knp10cvx15dkvwx",
+                        "url": "https://static.asianetnews.com/images/01dwgyrdre9knp10cvx15dkvwx/getty---13--jpg.jpg",
+                        "caption": "പ്രക്ഷോപങ്ങള്‍ ശക്തി പ്രാപിച്ചപ്പോള്‍ ദേശീയ പൗരത്വ പട്ടിക ഉടന്‍ നടപ്പാക്കാന്‍ ഉദ്ദേശിക്കുന്നില്ലെന്ന് കേന്ദ്ര ആഭ്യന്തര സഹമന്ത്രി ജി കെ റെഡ്ഡി പറഞ്ഞു. പൗരത്വ നിയമ ഭേദഗതിക്കെതിരെ രാജ്യവ്യാപക പ്രതിഷേധമുയരുന്ന സാഹചര്യത്തിലാണ് കേന്ദ്രമന്ത്രിയുടെ പ്രതികരണം."
+                    },
+                    {
+                        "id": "01dwgyre1ndrq2zvkdm1jjcjxq",
+                        "url": "https://static.asianetnews.com/images/01dwgyre1ndrq2zvkdm1jjcjxq/getty---27--jpg.jpg",
+                        "caption": "ദേശീയ പൗരത്വ പട്ടിത തയ്യാറാക്കാനുള്ള നടപടികള്‍ ഇതുവരെ തുടങ്ങിയിട്ടില്ലെന്നും ഇത് സംബന്ധിച്ച് അക്രമികളൊഴികെ ആരുമായും ചര്‍ച്ചക്ക് തയ്യാറാണെന്നും അദ്ദേഹം പറഞ്ഞു. പൗരത്വ നിയമത്തിനെതിരെയുള്ള സമരങ്ങള്‍ നടക്കുന്നതിന് പിന്നില്‍ പ്രതിപക്ഷമാണെന്ന് അദ്ദേഹം കുറ്റപ്പെടുത്തി."
+                    },
+                    {
+                        "id": "01dwgytfq5pcka7k3xqct5mpmy",
+                        "url": "https://static.asianetnews.com/images/01dwgytfq5pcka7k3xqct5mpmy/getty---28--jpg.jpg",
+                        "caption": "ദേശീയ പൗരത്വ പട്ടികയുടെ കരട് പോലും തയ്യാറാക്കി തുടങ്ങിയിട്ടില്ല. മന്ത്രിസഭയുടെ അംഗീകാരവും ലഭിച്ചിട്ടില്ല. തെറ്റായ പ്രചാരണങ്ങളെ പ്രതിരോധിക്കാനാണ് പൗരത്വ നിയമഭേദഗതിയെക്കുറിച്ച് ഹിന്ദി ഉറുദു മാധ്യമങ്ങളില്‍ പരസ്യം നല്‍കിയതെന്നും അദ്ദേഹം പറഞ്ഞു. അക്രമപാത ഉപേക്ഷിച്ചാല്‍ പൗരത്വ നിയമ ഭേദഗതിയെ സംബന്ധിച്ച് ചര്‍ച്ച ചെയ്യാന്‍ സര്‍ക്കാര്‍ തയ്യാറാണെന്നും അദ്ദേഹം വ്യക്തമാക്കി."
+                    },
+                    {
+                        "id": "01dwgytght5nzkr7t0p0hst3ar",
+                        "url": "https://static.asianetnews.com/images/01dwgytght5nzkr7t0p0hst3ar/getty---31--jpg.jpg",
+                        "caption": "എന്നാല്‍ ആഭ്യന്തരമന്ത്രി അമിത് ഷായുടെ പ്രസ്താവനകള്‍ക്ക് വിരുദ്ധമാണ് സഹമന്ത്രിയുടെ പ്രസ്താവനയെന്നും ശ്രദ്ധേയമാണ്. ഝാര്‍ഖണ്ഡ് നിയമസഭ തെരഞ്ഞെടുപ്പ് പ്രചാരണത്തില്‍ ദേശീയ പൗരത്വ പട്ടിക 2024 തെരഞ്ഞെടുപ്പിന് മുമ്പ് തയ്യാറാക്കുമെനന് അമിത് ഷാ വ്യക്തമാക്കിയിരുന്നു. എന്തൊക്കെ സംഭവിച്ചാലും പൗരത്വ നിയമഭേദഗതിയില്‍ നിന്ന് പിന്നോട്ടില്ലെന്നും നിയമം നടപ്പാക്കുമെന്നും അമിത് ഷാ വ്യക്തമാക്കിയിരുന്നു."
+                    },
+                    {
+                        "id": "01dwgytgvanrskp0qg048fvawv",
+                        "url": "https://static.asianetnews.com/images/01dwgytgvanrskp0qg048fvawv/getty---32--jpg.jpg",
+                        "caption": "അനുമതിയില്ലാതെ സംസ്ഥാനത്ത് പ്രതിഷേധം നടത്താന്‍ പാടില്ല. പ്രതിഷേധത്തിന്‍റെ പേരില്‍ ലഹള അനുവദിക്കില്ല. സാധാരണക്കാരന്‍റെ ജീവിതത്തിന് ബുദ്ധിമുട്ടുണ്ടാക്കാതിരിക്കാനുള്ള നടപടിക്രമങ്ങള്‍ ഉറപ്പാക്കാന്‍ പൊലീസിനോട് ആവശ്യപ്പെട്ടിട്ടുണ്ടെന്ന് യുപി മുഖ്യമന്ത്രി ആദിത്യനാഥ് പറഞ്ഞു. കഴിഞ്ഞ ദിവസം നടന്ന വെടിവെപ്പില്‍ ലക്നൗവില്‍ ഒരാള്‍ കൊല്ലപ്പെട്ടിരുന്നു."
+                    }
+                ],
+                "focalPoint": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "authorId": "078bae53-cfc8-5bf2-a623-839fb3b241fc",
+            "isInstantArticle": false,
+            "priority": "low",
+            "editorIds": [
+                "078bae53-cfc8-5bf2-a623-839fb3b241fc",
+                "16efaf0d-ea0a-554c-b3b4-1ff7280d4b4e",
+                "6234eca9-dea0-5f74-a579-fe6987885d44"
+            ],
+            "urlPath": "gallery/india-news/delhi-protest-against-citizenship-amendment-act-q2sro9",
+            "version": "main",
+            "tags": [
+                "News"
+            ],
+            "accountId": "site/50et4t1p5",
+            "authorName": "Balu KG",
+            "bylineUserName": "Web Team",
+            "publishedDate": 1576822041726,
+            "bylineUserId": "505eb3cc-6d2a-5f3a-aa1a-b10521c5a3e5",
+            "authorImageUrl": "https://static.asianetnews.com/images/authors/078bae53-cfc8-5bf2-a623-839fb3b241fc.jpg",
+            "status": "published"
+        },
+        {
+            "socialMetaData": "{\"shareNow\":false}",
+            "initialCreatedDate": "2019-12-17T13:40:20.984Z",
+            "mobileTitle": "ജാമിയ മിലിയ പ്രക്ഷോഭം: അയ്ഷ റെന്നയുടെ അക്കൗണ്ട് ഫേസ്ബുക്ക് ബ്ലോക്ക് ചെയ്തു",
+            "body": "<p>ദില്ലി: പൗരത്വ ഭേദഗതി നിയമത്തിനെതിരായ ജാമിയ മിലിയ ഇസ്ലാമിയ യൂണിവേഴ്സിറ്റി വിദ്യാര്‍ത്ഥികളുടെ സമരത്തിലൂടെ ശ്രദ്ധേയയായ മലയാളി വിദ്യാര്‍ത്ഥിക്കെതിരെ ഫേസ്ബുക്ക് നടപടി. അയ്ഷ റെന്ന എന്ന വിദ്യാര്‍ത്ഥിയുടെ അക്കൗണ്ടാണ് ഒരു മാസത്തേക്ക് ഫേസ്ബുക്ക് തടഞ്ഞുവച്ചത്. കമ്യൂണിറ്റി സ്റ്റാന്‍റേര്‍ഡിന് നിരക്കാത്ത പോസ്റ്റുകളുടെ പേരില്‍ ഒരുമാസത്തേക്ക് അക്കൗണ്ട് ഉപയോഗിക്കുന്നതില്‍ വിലക്കുന്നു എന്നാണ് &nbsp;അയ്ഷ റെന്നയ്ക്ക് ലഭിച്ച സന്ദേശം.</p>\n\n<p>ഇത് സംബന്ധിച്ച് അയ്ഷ റെന്ന ട്വിറ്ററില്‍ പോസ്റ്റ ഇട്ടു. സംഘപരിവാര്‍ ഐടി സെല്‍ നടത്തിയ വിദ്വേഷണ പ്രചാരണത്തിന്‍റെ ഭാഗമായാണ് ഇത് സംഭവിച്ചത് എന്നാണ് അയ്ഷ റെന്ന ആരോപിക്കുന്നത്. ഈ വിലക്കിലൂടെ ഫേസ്ബുക്ക് ഉപയോഗിക്കാന്‍ കഴിയില്ലെന്നും തന്നെ ട്വിറ്ററില്‍ ഫോളോ ചെയ്യാം ഇന്നും ഇവര്‍ പറയുന്നു.</p>\n\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"en\">Following hate campaigns and organised efforts by sangh parivar IT cells, my fb account has been reported many times, which makes me unable to post there. You can get in touch with me here.<a href=\"https://twitter.com/hashtag/JamiaProtest?src=hash&amp;ref_src=twsrc%5Etfw\">#JamiaProtest</a> <a href=\"https://t.co/I0VyTXAaCP\">pic.twitter.com/I0VyTXAaCP</a></p>\n— Aysha Renna (@AyshaRenna) <a href=\"https://twitter.com/AyshaRenna/status/1206947114225471488?ref_src=twsrc%5Etfw\">December 17, 2019</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n<p>അതേ സമയം പോസ്റ്റുകളെ കൂട്ടമായി റിപ്പോര്‍ട്ട് ചെയ്തതിന്‍റെ ഭാഗമായി പരിശോധനകള്‍ക്കായി ഫേസ്ബുക്ക് ഇത്തരം താത്കാലിക നടപടികള്‍ എടുക്കാറുണ്ട്. കഴിഞ്ഞ ചില ദിവസങ്ങളായി അയ്ഷ റെന്ന അടക്കമുള്ള &nbsp;ജാമിയ മിലിയ &nbsp;സമരത്തില്‍ പങ്കെടുത്തവരുടെ പോസ്റ്റുകള്‍ സോഷ്യല്‍ മീഡിയ പ്ലാറ്റ്ഫോമുകളില്‍ വലിയ ചര്‍ച്ചയുണ്ടാക്കിയിരുന്നു.</p>\n",
+            "initialPublishedDate": 1576596223017,
+            "templateId": "article",
+            "title": "ജാമിയ മിലിയ പ്രക്ഷോഭം: അയ്ഷ റെന്നയുടെ അക്കൗണ്ട് ഫേസ്ബുക്ക് ബ്ലോക്ക് ചെയ്തു",
+            "type": "article",
+            "otherCategoryIds": [
+                "news/india"
+            ],
+            "statusFields": {
+                "amp-enable": true,
+                "telegram": true,
+                "trending": true,
+                "latest": true
+            },
+            "createdAt": 1576596222705,
+            "intro": "<p>പൗരത്വ ഭേദഗതി നിയമത്തിനെതിരായ ജാമിയ മിലിയ ഇസ്ലാമിയ യൂണിവേഴ്സിറ്റി വിദ്യാര്‍ത്ഥികളുടെ സമരത്തിലൂടെ ശ്രദ്ധേയയായ മലയാളി വിദ്യാര്‍ത്ഥിക്കെതിരെ ഫേസ്ബുക്ക് നടപടി</p>\n",
+            "lastUpdatedByUserId": "68ee970e-a8c2-591a-b662-07292baf9e5c",
+            "seoMetaData": {
+                "description": "jamia millia islamia protest Anti CAA Aysha Renna facebook account blocked by facebook on community standards violation",
+                "tags": [
+                    "jamia millia islamia protest",
+                    "Anti CAA",
+                    "Aysha Renna",
+                    "Aysha Renna facebook account",
+                    "community standards violation",
+                    "അയ്ഷ റെന്ന",
+                    "ഫേസ്ബുക്ക് ബ്ലോക്ക് ചെയ്തു",
+                    "ജാമിയ മിലിയ പ്രക്ഷോഭം"
+                ],
+                "title": "ജാമിയ മിലിയ പ്രക്ഷോഭം: അയ്ഷ റെന്നയുടെ അക്കൗണ്ട് ഫേസ്ബുക്ക് ബ്ലോക്ക് ചെയ്തു | Aysha Renna facebook account blocked by facebook on community standards violation"
+            },
+            "bylineUserImageUrl": "https://static.asianetnews.com/images/authors/505eb3cc-6d2a-5f3a-aa1a-b10521c5a3e5.jpg",
+            "id": "site/50et4t1p5/technology/whats-new/lg04j03fo",
+            "place": {
+                "city": "Jamia Millia Islamia, Jamia Nagar, Okhla, New Delhi, Delhi, India",
+                "latitude": 28.5620257,
+                "longitude": 77.28271470000004,
+                "address": "Jamia Millia Islamia, Jamia Nagar, Okhla, New Delhi, Delhi, India"
+            },
+            "mainCategoryId": "technology/whats-new",
+            "englishTitle": "Aysha Renna facebook account blocked by facebook on community standards violation",
+            "updatedAt": 1577388843040,
+            "summary": "<p>ഇത് സംബന്ധിച്ച് അയ്ഷ റെന്ന ട്വിറ്ററില്‍ പോസ്റ്റ ഇട്ടു. സംഘപരിവാര്‍ ഐടി സെല്‍ നടത്തിയ വിദ്വേഷണ പ്രചാരണത്തിന്‍റെ ഭാഗമായാണ് ഇത് സംഭവിച്ചത് എന്നാണ് അയ്ഷ റെന്ന ആരോപിക്കുന്നത്.</p>\n",
+            "images": {
+                "main": {
+                    "url": "https://static.asianetnews.com/images/01dwa7795t6hr4vk745q97csn8/aysha-renna-jpg.jpg",
+                    "id": "01dwa7795t6hr4vk745q97csn8",
+                    "caption": "Aysha Renna"
+                },
+                "focalPoint": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "authorId": "68ee970e-a8c2-591a-b662-07292baf9e5c",
+            "isInstantArticle": true,
+            "priority": "low",
+            "editorIds": [
+                "68ee970e-a8c2-591a-b662-07292baf9e5c"
+            ],
+            "urlPath": "whats-new-technology/aysha-renna-facebook-account-blocked-by-facebook-on-community-standards-violation-q2nxfj",
+            "version": "main",
+            "tags": [
+                "News",
+                "TECHNOLOGY"
+            ],
+            "accountId": "site/50et4t1p5",
+            "authorName": "Vipin Panappuzha",
+            "bylineUserName": "Web Team",
+            "publishedDate": 1576596223878,
+            "bylineUserId": "505eb3cc-6d2a-5f3a-aa1a-b10521c5a3e5",
+            "authorImageUrl": "https://static.asianetnews.com/images/authors/68ee970e-a8c2-591a-b662-07292baf9e5c.jpg",
+            "status": "published"
+        },
+        {
+            "socialMetaData": "{\"shareNow\":false}",
+            "initialCreatedDate": "2019-12-20T05:14:24.713Z",
+            "mobileTitle": "'സ്വന്തം രാജ്യം പ്രവർത്തിക്കുന്ന അതിക്രമങ്ങളിൽ ലജ്ജതോന്നുന്നവനാണ് യഥാർത്ഥ ദേശസ്നേഹി' രാമചന്ദ്ര ഗുഹ നടത്തിയ പ്രസംഗത്തില്‍നിന്ന്",
+            "body": "<p>പൗരത്വ നിയമ ഭേദഗതിക്കെതിരെ സമാധാനപരമായി പ്രതിഷേധിച്ചുകൊണ്ടിരുന്ന നിരവധിപേരെ രാജ്യത്തിൻറെ വിവിധഭാഗങ്ങളിൽ നിന്നായി അറസ്റ്റു ചെയ്‍ത് വലിച്ചിഴച്ച് നീക്കുന്ന കാഴ്‍ചയാണ് ഇന്നലെ നാം കണ്ടത്. അക്കൂട്ടത്തിൽ അറുപത്തൊന്നുകാരനായ ഒരു ചരിത്രകാരനും ഉണ്ടായിരുന്നു. ഇന്ത്യൻ ചരിത്രത്തെ ഇത്രകണ്ട് ഇഴകീറി വിശകലനം ചെയ്‍ത മറ്റൊരാളില്ല. പേര് രാമചന്ദ്ര ഗുഹ. കയ്യിൽ ഒരു ചെറിയ പ്ലക്കാർഡും ഉയർത്തിപ്പിടിച്ച് ഉച്ചത്തിൽ മുദ്രാവാക്യം വിളിക്കുക മാത്രമാണ് അദ്ദേഹം ചെയ്‍തത്. ബെംഗളൂരു നഗരത്തിൽ വെച്ച് അറസ്റ്റു ചെയ്ത് നീക്കാൻ നേരത്ത് അദ്ദേഹം ചോദിച്ചത് ഇത്രമാത്രം, \"ദില്ലിയിൽ ഇരിക്കുന്ന ചിത്തഭ്രമക്കാരനായ പ്രജാപതി തികച്ചും ജനാധിപത്യപരമായ ഈ പ്രതിഷേധങ്ങളെ ഭയക്കുന്നതെന്തിനാണ്?\"</p>\n\n<p>അറസ്റ്റുചെയ്യപ്പെടുന്നതിന് തൊട്ടുമുമ്പായി ഗുഹ ഒരു പ്രഭാഷണം നടത്തുകയുണ്ടായി. 'ഇന്ത്യൻ ബഹുസ്വരത-ഇന്നലെ, ഇന്ന്, നാളെ' എന്ന വിഷയത്തിലായിരുന്നു പ്രഭാഷണം. തന്റെ പ്രസംഗത്തിൽ അദ്ദേഹം ഇടത്, കോൺഗ്രസ് പാർട്ടികളെ ശക്തിയായി വിമർശിച്ചു. വിശേഷിച്ച് ബിജെപിയുടെ ഇന്നത്തെ വളർച്ചയ്ക്ക് നിലമൊരുക്കിയ നെഹ്‌റു-ഗാന്ധി കുടുംബത്തെ.<br />\n&nbsp;<br />\n\"ഒരു യഥാർത്ഥ ദേശസ്നേഹി, സ്വന്തം രാജ്യത്തിന്റെ അപചയത്തിൽ ലജ്ജിക്കുന്നവനാണ്. സ്വന്തം മതം തന്റെ സഹജീവികളോട് വിവേചനം കാണിക്കുന്നത് കാണുമ്പോൾ ഒരു യഥാർത്ഥ ദേശസ്നേഹിക്ക് സങ്കടം തോന്നും. ഞാനൊരു ഉയർന്ന ജാതിക്കാരനാണ് എങ്കിൽ, ചില മേൽജാതിക്കാർ ദളിതരോട് ജാതീയവിവേചനങ്ങൾ കാണിക്കുമ്പോൾ എനിക്ക് ലജ്ജ തോന്നേണ്ടതുണ്ട്. ഞാനൊരു മുസ്ലിം ആണെങ്കിൽ, ചില മുസ്ലിം മതമേലാളന്മാർ തങ്ങളുടെ സ്ത്രീകളോട് വിവേചനം കാണിക്കുന്നത് കാണുമ്പോൾ എനിക്ക് ലജ്ജ തോന്നേണ്ടതുണ്ട്. എന്റെ മതം, അല്ലെങ്കിൽ എന്റെ രാജ്യം കുറ്റമറ്റതല്ല, അതിലും ന്യൂനതകളുണ്ട്, അവ പരിഹരിക്കാൻ ഞാൻ ശ്രമിക്കും എന്ന് തുറന്നു സമ്മതിക്കുന്നത് ദേശസ്നേഹത്തിന് അത്യാവശ്യമായി ഉണ്ടായിരിക്കേണ്ട ഒരു ഗുണമാണ്.\" രാമചന്ദ്ര ഗുഹ പറഞ്ഞു.</p>\n\n<p>പൗരത്വ ഭേദഗതി ബിൽ, ദേശീയ പൗരത്വ രജിസ്റ്റർ തുടങ്ങിയവയെ ചുറ്റിപ്പറ്റി നിരവധി പ്രതിഷേധസമരങ്ങൾ നടക്കുന്ന പശ്ചാത്തലത്തിലായിരുന്നു ഇങ്ങനെ ഒരു സെമിനാർ സംഘടിപ്പിക്കപ്പെട്ടത്. സിവിൽ ലിബർട്ടീസ് കളക്ടീവ് എന്ന സംഘടനയാണ് ഇതിനു പിന്നിൽ. ഇത് ദർശന, ബെംഗളൂരു കളക്ടീവ്, സെക്കുലർ ഫോറം, കെഎംസിസി, എംഎംഎ, കർണാടക പ്രവാസി കോൺഗ്രസ്, കർണാടക മലയാളി കോൺഗ്രസ് എന്നിങ്ങനെ പല സംഘടനകളുടെയും ഒരു സംയുക്ത വേദിയാണ്. ഈ സംഘടനകളൊക്കെയും പൗരത്വ നിയമ ഭേദഗതിക്കെതിരെയുള്ള സമരങ്ങളിൽ സജീവമാണ്.</p>\n\n<p>\"സ്വന്തം രാജ്യം പ്രവർത്തിക്കുന്ന അതിക്രമങ്ങളിൽ ലജ്ജതോന്നുന്നവനാണ് യഥാർത്ഥ ദേശസ്നേഹി.\" &nbsp;അദ്ദേഹം തുടർന്നു, \"ഒരു യഥാർത്ഥ ഹിന്ദു, മുസ്ലിം, ക്രിസ്ത്യൻ എന്നത് സ്വന്തം മതത്തിന്റെ നാമത്തിൽ നാട്ടിൽ നടക്കുന്ന വിവേചനങ്ങളെക്കുറിച്ചോർത്ത് ആകുലപ്പെടുന്നവനായിരിക്കും. ഗാന്ധിയും അംബേദ്കറും ദേശസ്നേഹത്തെപ്പറ്റി ഏറ്റവും ഒടുവിലായി നടത്തിയ നിരീക്ഷണങ്ങൾ ഇപ്രകാരമാണ്, 'സ്വന്തം സംസ്കാരത്തിൽ അടിയുറച്ചു നിൽക്കുമ്പോഴും, അന്യസംസ്‌കാരങ്ങളിൽ നിന്ന് പുതുതായി പലതും ആർജ്ജിക്കാൻ ബദ്ധശ്രദ്ധരായിരിക്കണം ദേശസ്നേഹികൾ' എന്നാണ് \"</p>\n\n<p>നമ്മുടെ പ്രപിതാമഹന്മാരുടെ ആദർശങ്ങളിൽ അധിഷ്ഠിതമായി നിലനിൽക്കുന്ന ഈ &nbsp;രാജ്യത്തിന്റെ ബഹുസ്വരതയുടേതായ പാരമ്പര്യത്തെപ്പറ്റിയും ഇന്നത്തെ നിയമ ഭേദഗതി അതിനേൽപ്പിക്കുന്ന ആഘാതത്തെപ്പറ്റിയുമാണ് ഗുഹ തന്റെ പ്രസംഗത്തിൽ വിശദീകരിച്ചത്. \"ഒരു മതമോ, രാജ്യമോ അതിന്റെ നേതാവോ ഒക്കെ എല്ലാം തികഞ്ഞവരാണ് എന്ന സങ്കൽപം ഏറെ അപകടകരമായ ഒന്നാണ്. അത് യഥാർത്ഥ ദേശസ്നേഹത്തിന്റെ അടിസ്ഥാന സങ്കൽപ്പങ്ങൾക്ക് കടകവിരുദ്ധമാണ്. ബഹുസ്വരതയുടേതായ, തുറന്ന വീക്ഷണമുള്ള, വിശാലഹൃദയത്തോടു കൂടിയ, നവോത്ഥാന മൂല്യങ്ങളോട് കൂടിയ, സമത്വത്തിൽ അധിഷ്ഠിതമായ ദേശസ്നേഹം ഇന്ന് കാലഹരണപ്പെട്ടുകൊണ്ടിരിക്കുന്ന ഒരു സങ്കല്പമാണ്.\" അദ്ദേഹം പറഞ്ഞു.</p>\n\n<p>\"ഇന്ന് നമ്മൾ കാണുന്നത് ഹിന്ദുത്വത്തില്‍ അധിഷ്ഠിതമായ പുതിയൊരു ദേശസ്നേഹമാതൃകയാണ്. ഹിന്ദുത്വത്തിന് മൂന്ന് ലക്ഷണങ്ങളാണുള്ളത്. ഒന്ന്, ഹിന്ദുക്കൾ അഹിന്ദുക്കളേക്കാൾ ഒരു പടി മേലെ നിൽക്കേണ്ടവരാണ് എന്ന് അത് കരുതുന്നു. രണ്ട്, ഹിന്ദി മറ്റുള്ള ഇന്ത്യൻ ഭാഷകളേക്കാൾ വരിഷ്ഠമാണ് എന്ന് അവർ കരുതുന്നു. മൂന്ന്, നിങ്ങൾ ഒരു യഥാർത്ഥ ഇന്ത്യക്കാരനാകണമെന്നുണ്ടെങ്കിൽ അതിന് പാകിസ്ഥാനെ വെറുത്തേ മതിയാകൂ എന്ന് അവർ വിശ്വസിക്കുന്നു.\" അദ്ദേഹം ഓർമിപ്പിച്ചു.</p>\n\n<p>ചരിത്രത്തിലേക്ക് ഒരു തിരിഞ്ഞുനോട്ടം നടത്തിക്കൊണ്ട് ഗുഹ പറഞ്ഞത് ഇന്നത്തെ ഇന്ത്യയുടെ അവസ്ഥ പത്തൊമ്പതാം നൂറ്റാണ്ടിൽ 'ഒരു ഭാഷ, ഒരു മതം, ഒരു ശത്രു' എന്ന് ജപിച്ചുകൊണ്ട് കഴിഞ്ഞുകൂടിയിരുന്ന ഒരു യൂറോപ്യൻ രാജ്യത്തിന്റേത് പോലെയാണ്. അന്ന് അങ്ങനെ വിശ്വസിച്ചിരുന്ന ഒരു യൂറോപ്യൻ രാജ്യം പോലും കാലപ്രവാഹത്തെ അതിജീവിച്ചില്ല. പാകിസ്ഥാൻ എന്ന നമ്മുടെ അയല്‍ രാജ്യം, മതേതരമായ ഇന്ത്യൻ സങ്കല്പത്തിൽ നിന്ന് വ്യത്യസ്തമായി, മേൽപ്പറഞ്ഞ അതേ മാതൃകയിൽ രൂപംകൊടുത്ത ഒരു രാഷ്ട്രമാണ് എന്നും അദ്ദേഹം ചൂണ്ടിക്കാട്ടി.</p>\n\n<p>\"ദേശീയതയുടെ ഹിന്ദുത്വ മാതൃക ഏറെ സങ്കുചിതമാണ്. അത് ഏറെ പാപ്പരായ, ബഹുസ്വരതയ്ക്ക് എതിരായ ഒരു സങ്കല്പമാണ്. ഹിന്ദുത്വത്തിന്റെ മറ്റു സവിശേഷതകളും ഏറെ ജനാധിപത്യവിരുദ്ധം തന്നെയാണ്. എതിർപ്പുകളെ ചവിട്ടിയരക്കുക, വിമർശകരെ ദേശദ്രോഹികൾ എന്ന് വിളിക്കുക, അല്ലെങ്കിൽ അർബൻ നക്സലുകൾ എന്ന് വിശേഷിപ്പിക്കുക, ഹിന്ദുത്വത്തിന്റെ ആശയങ്ങളോട് വിയോജിപ്പ് പ്രകടിപ്പിച്ചതിനെ പേരിൽ മാത്രം എഴുത്തുകാരെ വെടിവെച്ചുകൊള്ളുക അങ്ങനെ പലതും അതിന്റെ ലക്ഷണങ്ങളാണ്.\" അദ്ദേഹം പറഞ്ഞു. ഹിന്ദുത്വമെന്ന സങ്കല്പത്തിൽ ഭാരതീയമായ യാതൊന്നും ഇല്ലെന്നും അതിലെ മേൽപ്പറഞ്ഞ പ്രവണതകൾ മുഴുവനും പത്തൊമ്പതാം നൂറ്റാണ്ടിലെ യൂറോപ്പിൽ നിന്നോ, മധ്യകാല ഇസ്ലാമിക് സ്റ്റേറ്റുകളിൽ നിന്നോ ഒക്കെ കടമെടുത്തവയാണ് എന്നും ഗുഹ പറഞ്ഞു.</p>\n\n<p>ഇടത് കോൺഗ്രസ് നേതൃത്വങ്ങളെയും ഇന്നത്തെ സാഹചര്യത്തിന് ഉത്തരവാദികൾ എന്ന് ചൂണ്ടിക്കാട്ടി അദ്ദേഹം ശക്തമായി വിമർശിച്ചു. \"രാഹുൽ ഗാന്ധി എന്ന ഒരൊറ്റ മനുഷ്യൻ ഇല്ലായിരുന്നു എങ്കിൽ മോദി ഒരിക്കലും ഇത്രകണ്ട് വിജയശ്രീലാളിതനാവുകയില്ലായിരുന്നു. ഞാൻ നെഹ്‌റുവിന്റെയും ഗാന്ധിയുടെയും ചരിത്രവും തത്വശാസ്ത്രങ്ങളും ഏറെ അഭ്യസിച്ച ഒരാളാണ്. ഇന്ന് നെഹ്‌റു ജീവനോടെ ഉണ്ടായിരുന്നു എങ്കിൽ രാഹുൽ ഗാന്ധിയുടെ ഇന്നത്തെ അവസ്ഥകണ്ട് അന്ധാളിച്ച് പോയിരുന്നേനെ.\" കുടുംബ വാഴ്ചയും അഴിമതിയും കെടുകാര്യസ്ഥതയും വെച്ചുപുലർത്തുന്നു എന്നൊരു ആരോപണവും അദ്ദേഹം കോൺഗ്രസിനെതിരെ ഉയർത്തി.</p>\n\n<p>ഇടതുപക്ഷത്തേയും ഗുഹ വെറുതെ വിട്ടില്ല. ഇടതുപക്ഷം കാണിക്കുന്നത് കാപട്യമാണ്. മൂന്നുസംസ്ഥാനങ്ങളിൽ മാത്രം അധികാരം കയ്യിലുണ്ടായിരുന്നുള്ളു എങ്കിലും, &nbsp;കലാകാരന്മാർക്കും, സംഗീതജ്ഞർക്കും, ചലച്ചിത്രപ്രവർത്തകർക്കും ഒക്കെ ഇടയിൽ എന്നും ഏറെ സ്വാധീനമുണ്ടായിരുന്നു ഇടതുപക്ഷത്തിന്. എന്നിട്ടും അത് എന്നുമെന്നും ദേശവിരുദ്ധം തന്നെ ആയിരുന്നു. ഇന്ത്യൻ കമ്യൂണിസ്റ്റുകാരുടെ ദുരന്തമെന്നത്, അവർക്ക് എന്നും സ്വന്തം രാജ്യത്തെക്കാൾ മറ്റേതെങ്കിലും രാജ്യത്തോടായിരുന്നു പ്രിയം എന്നതാണ്\"</p>\n\n<p>പൗരത്വ നിയമത്തിന്റെ ഭേദഗതി വിവേചനപരമാണ് എന്നാക്ഷേപിച്ചുകൊണ്ട് രാജ്യത്തിന്റെ പലഭാഗങ്ങളിലായി നടക്കുന്ന പ്രക്ഷോഭങ്ങളിൽ വിവിധ മേഖലകളിൽ പ്രവർത്തിക്കുന്ന അറിയപ്പെടുന്ന കലാകാരന്മാരും, എഴുത്തുകാരും, സാമൂഹ്യപ്രവർത്തകരുമെല്ലാം തങ്ങളുടെ എതിർപ്പ് രേഖപ്പെടുത്തുന്നുണ്ട്. അക്കൂട്ടത്തിലാണ് രാമചന്ദ്ര ഗുഹ എന്ന ലബ്ധപ്രതിഷ്ഠനായ ചരിത്രകാരനും ബെംഗളൂരുവിൽ പ്രതിഷേധിക്കാനിറങ്ങിയതും, പൊലീസിനാൽ അറസ്റ്റുചെയ്യപ്പെട്ടതും. ഭരണഘടനാ വിരുദ്ധമായ ഈ നിയമ ഭേദഗതി പിൻവലിക്കും വരെ എതിർക്കുക തന്നെ ചെയ്യുമെന്ന് അദ്ദേഹം സൂചിപ്പിച്ചു.<br />\n&nbsp;</p>\n",
+            "initialPublishedDate": 1576819013794,
+            "templateId": "article",
+            "title": "'സ്വന്തം രാജ്യം പ്രവർത്തിക്കുന്ന അതിക്രമങ്ങളിൽ ലജ്ജതോന്നുന്നവനാണ് യഥാർത്ഥ ദേശസ്നേഹി' രാമചന്ദ്ര ഗുഹ നടത്തിയ പ്രസംഗത്തില്‍നിന്ന്",
+            "type": "editorials",
+            "statusFields": {
+                "amp-enable": true
+            },
+            "createdAt": 1576819013534,
+            "intro": "<p>ഒരു മതമോ, രാജ്യമോ അതിന്റെ നേതാവോ ഒക്കെ എല്ലാം തികഞ്ഞവരാണ് എന്ന സങ്കൽപം ഏറെ അപകടകരമായ ഒന്നാണ്. അത് യഥാർത്ഥ ദേശസ്നേഹത്തിന്റെ അടിസ്ഥാന സങ്കൽപ്പങ്ങൾക്ക് കടകവിരുദ്ധമാണ്. ബഹുസ്വരതയുടേതായ, തുറന്ന വീക്ഷണമുള്ള, വിശാലഹൃദയത്തോടു കൂടിയ, നവോത്ഥാന മൂല്യങ്ങളോട് കൂടിയ, സമത്വത്തിൽ അധിഷ്ഠിതമായ ദേശസ്നേഹം ഇന്ന് കാലഹരണപ്പെട്ടുകൊണ്ടിരിക്കുന്ന ഒരു സങ്കല്പമാണ്.\"&nbsp;</p>\n",
+            "lastUpdatedByUserId": "a01efd32-94b3-52a0-b26b-1d680dc49ddf",
+            "seoMetaData": {
+                "description": "Ramachandra Guha Speech excerpts before his arrest from Bangalore",
+                "tags": [
+                    "രാമചന്ദ്ര ഗുഹ",
+                    "ramachandra guha",
+                    "speech"
+                ],
+                "title": "'സ്വന്തം രാജ്യം പ്രവർത്തിക്കുന്ന അതിക്രമങ്ങളിൽ ലജ്ജതോന്നുന്നവനാണ് യഥാർത്ഥ ദേശസ്നേഹി' രാമചന്ദ്ര ഗുഹ നടത്തിയ പ്രസംഗത്തില്‍നിന്ന് | Ramachandra Guha Speech excerpts"
+            },
+            "bylineUserImageUrl": "https://static.asianetnews.com/images/authors/505eb3cc-6d2a-5f3a-aa1a-b10521c5a3e5.jpg",
+            "id": "site/50et4t1p5/magazine/web-specials/50n896mvo",
+            "place": {
+                "city": "Bangalore, Karnataka, India",
+                "latitude": 12.9715987,
+                "longitude": 77.59456269999998,
+                "address": "Bangalore, Karnataka, India"
+            },
+            "mainCategoryId": "magazine/web-specials",
+            "englishTitle": "Ramachandra Guha Speech excerpts",
+            "updatedAt": 1577390385486,
+            "summary": "<p>ഒരു മതമോ, രാജ്യമോ അതിന്റെ നേതാവോ ഒക്കെ എല്ലാം തികഞ്ഞവരാണ് എന്ന സങ്കൽപം ഏറെ അപകടകരമായ ഒന്നാണ്. അത് യഥാർത്ഥ ദേശസ്നേഹത്തിന്റെ അടിസ്ഥാന സങ്കൽപ്പങ്ങൾക്ക് കടകവിരുദ്ധമാണ്. ബഹുസ്വരതയുടേതായ, തുറന്ന വീക്ഷണമുള്ള, വിശാലഹൃദയത്തോടു കൂടിയ, നവോത്ഥാന മൂല്യങ്ങളോട് കൂടിയ, സമത്വത്തിൽ അധിഷ്ഠിതമായ ദേശസ്നേഹം ഇന്ന് കാലഹരണപ്പെട്ടുകൊണ്ടിരിക്കുന്ന ഒരു സങ്കല്പമാണ്.\"&nbsp;</p>\n",
+            "images": {
+                "main": {
+                    "url": "https://static.asianetnews.com/images/01dwgvf02ae3rrk76w18zh5hmq/ramachandra-guha--jpg.jpg",
+                    "id": "01dwgvf02ae3rrk76w18zh5hmq",
+                    "caption": "ramachandra guha"
+                },
+                "focalPoint": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "authorId": "a01efd32-94b3-52a0-b26b-1d680dc49ddf",
+            "isInstantArticle": true,
+            "priority": "low",
+            "editorIds": [
+                "a01efd32-94b3-52a0-b26b-1d680dc49ddf"
+            ],
+            "urlPath": "web-specials-magazine/ramachandra-guha-speech-excerpts-q2spc6",
+            "version": "main",
+            "tags": [
+                "News"
+            ],
+            "accountId": "site/50et4t1p5",
+            "authorName": "Rini Raveendran",
+            "bylineUserName": "Web Team",
+            "publishedDate": 1576819014261,
+            "bylineUserId": "505eb3cc-6d2a-5f3a-aa1a-b10521c5a3e5",
+            "authorImageUrl": "https://static.asianetnews.com/images/authors/a01efd32-94b3-52a0-b26b-1d680dc49ddf.jpg",
+            "columnTitle": "രാമചന്ദ്ര ഗുഹ",
+            "status": "published"
+        },
+        {
+            "socialMetaData": {
+                "shareNow": false
+            },
+            "initialCreatedDate": "2020-02-01T13:07:28.664Z",
+            "mobileTitle": "This is video article testing for malayalam issue - as a ifame",
+            "videos": [
+                {
+                    "id": "01e00ey2skfs1gez4j3ppbyvpn",
+                    "embeddedCode": "<iframe width=\"560\" height=\"315\" src=\"\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
+                }
+            ],
+            "body": "<p>This is video article testing for malayalam issue - as a ifameThis is video article testing for \"malayalam\" issue - as a ifameThis is 'video' article testing for malayalam issue - as a ifameThis is video article testing for malayalam issue - as a ifameThis is video article testing for malayalam issue - as a ifame</p>\n",
+            "initialPublishedDate": 1580563081439,
+            "templateId": "video",
+            "title": "This is 'video' article \"testing\" for malayalam issue - as a ifame",
+            "type": "video",
+            "categoryName": "Elections",
+            "statusFields": {
+                "amp-enable": true,
+                "show-on-homepage": true,
+                "telegram": true
+            },
+            "createdAt": 1580563080961,
+            "intro": "<p>This is video article 'testing' for malayalam issue - as a ifameThis is video article \"testing\" for malayalam issue - as a ifameThis is video article testing for malayalam issue - as a ifameThis is video article testing for malayalam issue - as a ifameThis is video article testing for malayalam issue - as a ifameThis is video article testing for malayalam issue - as a ifame</p>\n",
+            "lastUpdatedByUserId": "245453ea-ae29-5642-bbb9-eee71f952a2a",
+            "seoMetaData": {
+                "description": "This is video article testing for malayalam issue - as a ifame | Iframe videoThis is video article testing for malayalam issue - as a ifame | Iframe videoThis is video article testing for malayalam issue - as a ifame | Iframe videoThis is video article testing for malayalam issue - as a ifame | Iframe video",
+                "tags": [
+                    "afadsfsdf",
+                    "\"test\"",
+                    "'test'"
+                ],
+                "title": "This is 'video' article \"testing\" for malayalam issue - as a ifame | Iframe video"
+            },
+            "bylineUserImageUrl": "https://static.asianetnews.co/images/authors/600631a6-f30c-5105-b999-6ece8c9061a0.jpg",
+            "id": "site/50et4t1p5/election/50qcq8fi9",
+            "place": {
+                "city": "Bengaluru, Karnataka, India",
+                "latitude": 12.9715987,
+                "longitude": 77.5945627,
+                "address": "Bengaluru, Karnataka, India"
+            },
+            "mainCategoryId": "election",
+            "editors": [
+                {
+                    "name": "Atique ahmed",
+                    "id": "600631a6-f30c-5105-b999-6ece8c9061a0"
+                },
+                {
+                    "name": "Pankaj Garg",
+                    "id": "245453ea-ae29-5642-bbb9-eee71f952a2a"
+                }
+            ],
+            "englishTitle": "Iframe video",
+            "updatedAt": 1582614041715,
+            "summary": "<p>This is video article testing for \"malayalam\" issue - as a ifameThis is video 'article' testing for malayalam issue - as a ifameThis is video article testing for malayalam issue - as a ifameThis is video article testing for malayalam issue - as a ifame</p>\n",
+            "images": {
+                "main": {
+                    "url": "https://static.asianetnews.co/images/01dwh3q65z07de91btdsaer8m9/unnao-jpg.jpg",
+                    "id": "01dwh3q65z07de91btdsaer8m9",
+                    "caption": "Unnao's daughter will get justice, rape convict MLA Sengar can be punished kps"
+                },
+                "focalPoint": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "authorId": "600631a6-f30c-5105-b999-6ece8c9061a0",
+            "isInstantArticle": false,
+            "priority": "low",
+            "editorIds": [
+                "600631a6-f30c-5105-b999-6ece8c9061a0",
+                "245453ea-ae29-5642-bbb9-eee71f952a2a"
+            ],
+            "urlPath": "video/election/iframe-video-q50ya1",
+            "version": "main",
+            "tags": [
+                "assembly-on-floods"
+            ],
+            "accountId": "site/50et4t1p5",
+            "contentSource": "our own",
+            "authorName": "Atique ahmed",
+            "scheduledPublishDate": 1580562600000,
+            "bylineUserName": "Atique ahmed",
+            "publishedDate": 1580563082521,
+            "bylineUserId": "600631a6-f30c-5105-b999-6ece8c9061a0",
+            "authorImageUrl": "https://static.asianetnews.co/images/authors/600631a6-f30c-5105-b999-6ece8c9061a0.jpg",
+            "status": "published"
+        },
+        {
+            "socialMetaData": {
+                "shareNow": false
+            },
+            "initialCreatedDate": "2020-02-01T13:07:48.819Z",
+            "mobileTitle": "This is video article testing for malayalam issue",
+            "videos": [
+                {
+                    "url": "s3://private-static.asianetnews.co/videos/01dz4a2r1tk5qf2br6j1jq0r7n/ummen.mov",
+                    "id": "01dz4a2r1tk5qf2br6j1jq0r7n",
+                    "videoInfo": {
+                        "brightcove": {
+                            "accountId": "5498268425001",
+                            "videoId": "6125243243001",
+                            "referenceId": "01dz4a2r1tk5qf2br6j1jq0r7n"
+                        }
+                    },
+                    "duration": 38400
+                }
+            ],
+            "body": "<p>This is video article testing for malayalam issueThis is video article testing for malayalam issueThis is video article testing for malayalam issueThis is video article testing for malayalam issueThis is video article testing for malayalam issueThis is video article testing for malayalam issue</p>\n",
+            "initialPublishedDate": 1580562586787,
+            "templateId": "video",
+            "title": "This is video article testing for malayalam issue",
+            "type": "video",
+            "categoryName": "Elections",
+            "otherCategoryIds": [
+                "auto-and-travel-auto/vehicles"
+            ],
+            "statusFields": {
+                "amp-enable": true,
+                "show-on-homepage": true,
+                "telegram": true
+            },
+            "createdAt": 1580562585747,
+            "intro": "<p>This is video article testing for malayalam issueThis is video article testing for malayalam issueThis is video article testing for malayalam issueThis is video article testing for malayalam issueThis is video article testing for malayalam issue</p>\n",
+            "lastUpdatedByUserId": "600631a6-f30c-5105-b999-6ece8c9061a0",
+            "seoMetaData": {
+                "description": "This is video article testing for malayalam issueThis is video article testing for malayalam issueThis is video article testing for malayalam issueThis is video article testing for malayalam issue",
+                "tags": [
+                    "asfasdf",
+                    "asdfasdfdf"
+                ],
+                "title": "This is video article testing for malayalam issue | video article testing"
+            },
+            "bylineUserImageUrl": "https://static.asianetnews.co/images/authors/600631a6-f30c-5105-b999-6ece8c9061a0.jpg",
+            "id": "site/50et4t1p5/election/lgbt88v29",
+            "place": {
+                "city": "Bangalore, Karnataka, India",
+                "latitude": 12.9715987,
+                "longitude": 77.5945627,
+                "address": "Bangalore, Karnataka, India"
+            },
+            "mainCategoryId": "election",
+            "editors": [
+                {
+                    "name": "Atique ahmed",
+                    "id": "600631a6-f30c-5105-b999-6ece8c9061a0"
+                }
+            ],
+            "englishTitle": "video article testing",
+            "updatedAt": 1582195173556,
+            "summary": "<p>This is video article testing for malayalam issueThis is video article testing for malayalam issueThis is video article testing for malayalam issueThis is video article testing for malayalam issueThis is video article testing for malayalam issue</p>\n",
+            "images": {
+                "main": {
+                    "url": "https://static.asianetnews.co/images/01dym5e3p05x7a6aa199t3ntyt/12-jpg.jpg",
+                    "id": "01dym5e3p05x7a6aa199t3ntyt",
+                    "caption": "nature"
+                },
+                "focalPoint": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "authorId": "600631a6-f30c-5105-b999-6ece8c9061a0",
+            "isInstantArticle": false,
+            "priority": "low",
+            "editorIds": [
+                "600631a6-f30c-5105-b999-6ece8c9061a0"
+            ],
+            "urlPath": "video/election/video-article-testing-q50xwa",
+            "version": "main",
+            "tags": [
+                "assembly-on-floods"
+            ],
+            "accountId": "site/50et4t1p5",
+            "contentSource": "our own",
+            "authorName": "Atique ahmed",
+            "scheduledPublishDate": 1580562480000,
+            "bylineUserName": "Atique ahmed",
+            "publishedDate": 1580562588922,
+            "bylineUserId": "600631a6-f30c-5105-b999-6ece8c9061a0",
+            "authorImageUrl": "https://static.asianetnews.co/images/authors/600631a6-f30c-5105-b999-6ece8c9061a0.jpg",
+            "status": "published"
+        },
+        {
+            "socialMetaData": "{\"shareNow\":false}",
+            "initialCreatedDate": "2019-12-19T04:07:48.511Z",
+            "mobileTitle": "വാളയാറില്‍ എട്ട് വയസുകാരിയെ പീഡിപ്പിച്ചു: അയല്‍വാസി അറസ്റ്റില്‍, പോക്‌സോ ചുമത്തി",
+            "videos": [
+                {
+                    "url": "s3://private-static.asianetnews.com/videos/01dwe5vb960y6vhx5nz463gxhy/pocso-case.mov",
+                    "id": "01dwe5vb960y6vhx5nz463gxhy",
+                    "videoInfo": {
+                        "brightcove": {
+                            "accountId": "5498268425001",
+                            "videoId": "6116945735001",
+                            "referenceId": "01dwe5vb960y6vhx5nz463gxhy"
+                        }
+                    },
+                    "duration": 68523
+                }
+            ],
+            "body": "<p>വാളയാറിന് സമീപം എട്ട് വയസുകാരിയെ പീഡിപ്പിച്ച \"അമ്പത്തിയഞ്ച്\" വയസുകാരനായ അയല്‍വാസി പിടിയില്‍. മാതാപിതാക്കളുടെ പരാതിയില്‍ നടത്തിയ അന്വേഷണത്തിലാണ് പ്രതിയെ അറസ്റ്റ് ചെയ്തത്.<br />\n&nbsp;</p>\n",
+            "initialPublishedDate": 1576729359655,
+            "templateId": "web-finance-2020-video-template",
+            "title": "വാളയാറില്‍ എട്ട് \"വയസുകാരിയെ\" പീഡിപ്പിച്ചു: അയല്‍വാസി അറസ്റ്റില്‍, പോക്‌സോ ചുമത്തി",
+            "type": "video",
+            "categoryName": "Kerala",
+            "otherCategoryIds": [
+                "web-exclusive"
+            ],
+            "statusFields": {
+                "amp-enable": true,
+                "latest": true,
+                "show-on-homepage": true
+            },
+            "createdAt": 1576729359336,
+            "intro": "<p>വാളയാറിന് സമീപം എട്ട് വയസുകാരിയെ 'പീഡിപ്പിച്ച' അമ്പത്തിയഞ്ച് വയസുകാരനായ \"അയല്‍വാസി\" പിടിയില്‍. മാതാപിതാക്കളുടെ പരാതിയില്‍ നടത്തിയ അന്വേഷണത്തിലാണ് പ്രതിയെ അറസ്റ്റ് ചെയ്തത്.<br />\n&nbsp;</p>\n",
+            "lastUpdatedByUserId": "245453ea-ae29-5642-bbb9-eee71f952a2a",
+            "seoMetaData": {
+                "description": "eight year old girl \"raped\" at walayar, police arrested neighbour and filed pocso case. വാളയാറിന് സമീപം എട്ട് വയസുകാരിയെ പീഡിപ്പിച്ച അമ്പത്തിയഞ്ച് വയസുകാരനായ അയല്‍വാസി പിടിയില്‍. മാതാപിതാക്കളുടെ \"പരാതിയില്‍\" നടത്തിയ അന്വേഷണത്തിലാണ് പ്രതിയെ അറസ്റ്റ് ചെയ്തത്.",
+                "tags": [
+                    "pocso",
+                    "rape",
+                    "minor girl raped",
+                    "പീഡിപ്പിച്ചു",
+                    "പോക്സോ കേസ്",
+                    "‍walayar",
+                    "walayar rape",
+                    "\"test\"",
+                    "'test1'"
+                ],
+                "title": "വാളയാറില്‍ എട്ട് \"വയസുകാരിയെ\" പീഡിപ്പിച്ചു: അയല്‍വാസി അറസ്റ്റില്‍, പോക്‌സോ ചുമത്തി | eight year old girl raped at walayar"
+            },
+            "bylineUserImageUrl": "https://static.asianetnews.com/images/authors/6f9d4a04-698a-5fa6-b83c-353b165c5159.jpg",
+            "id": "site/50et4t1p5/news/kerala/501lbglf8",
+            "place": {
+                "city": "Walayar, India",
+                "latitude": 10.8367455,
+                "longitude": 76.83758399999999,
+                "address": "Walayar, India"
+            },
+            "mainCategoryId": "news/kerala",
+            "editors": [
+                {
+                    "name": "Ashish Gupta",
+                    "id": "16efaf0d-ea0a-554c-b3b4-1ff7280d4b4e"
+                },
+                {
+                    "name": "vineet nair",
+                    "id": "e4033653-349a-59c3-b2fe-e090d02d7a5d"
+                },
+                {
+                    "name": "Anuradha K",
+                    "id": "0f5e02e5-33e3-5a20-b75d-39b17f52c80d"
+                },
+                {
+                    "name": "Pankaj Garg",
+                    "id": "245453ea-ae29-5642-bbb9-eee71f952a2a"
+                }
+            ],
+            "englishTitle": "eight year old girl raped at walayar",
+            "updatedAt": 1582613631081,
+            "summary": "<p>വാളയാറിന് സമീപം എട്ട് വയസുകാരിയെ പീഡിപ്പിച്ച \"അമ്പത്തിയഞ്ച് വയസുകാരനായ\" അയല്‍വാസി പിടിയില്‍. മാതാപിതാക്കളുടെ പരാതിയില്‍ 'നടത്തിയ' അന്വേഷണത്തിലാണ് പ്രതിയെ അറസ്റ്റ് ചെയ്തത്.&nbsp;<br />\n&nbsp;</p>\n",
+            "images": {
+                "main": {
+                    "url": "https://static.asianetnews.com/images/01dwe5zma3vpc7t6cmvw44f9aq/pocso-case-png.jpg",
+                    "id": "01dwe5zma3vpc7t6cmvw44f9aq",
+                    "caption": "pocso case walayar"
+                },
+                "focalPoint": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "authorId": "6f9d4a04-698a-5fa6-b83c-353b165c5159",
+            "isInstantArticle": false,
+            "priority": "low",
+            "editorIds": [
+                "6f9d4a04-698a-5fa6-b83c-353b165c5159",
+                "16efaf0d-ea0a-554c-b3b4-1ff7280d4b4e",
+                "e4033653-349a-59c3-b2fe-e090d02d7a5d",
+                "0f5e02e5-33e3-5a20-b75d-39b17f52c80d",
+                "245453ea-ae29-5642-bbb9-eee71f952a2a"
+            ],
+            "urlPath": "video/kerala-news/eight-year-old-girl-raped-at-walayar-q2qs5r",
+            "version": "main",
+            "tags": [
+                "News",
+                "Cuddalore"
+            ],
+            "accountId": "site/50et4t1p5",
+            "contentSource": "our own",
+            "authorName": "Pavithra D",
+            "bylineUserName": "Pavithra D",
+            "publishedDate": 1576729360359,
+            "bylineUserId": "6f9d4a04-698a-5fa6-b83c-353b165c5159",
+            "authorImageUrl": "https://static.asianetnews.com/images/authors/6f9d4a04-698a-5fa6-b83c-353b165c5159.jpg",
+            "status": "published"
+        }
+    ],
+    "pagination": {
+        "hasMorePages": true,
+        "totalPages": 2,
+        "totalResults": 11,
+        "nextPageNumber": 2
+    }
+}
